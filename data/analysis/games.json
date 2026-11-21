@@ -1,0 +1,2765 @@
+[
+ {
+  "event_id": "401858528",
+  "matchup": "UCLA Bruins at Michigan Wolverines",
+  "kickoff_et": "2026-11-21 15:30 ET (Sat)",
+  "venue": "Michigan Stadium",
+  "city": "Ann Arbor",
+  "broadcast": "CBS",
+  "rankings": {
+   "home": null,
+   "away": {
+    "rank": 4,
+    "team": "UCLA",
+    "record": "10\u20130"
+   }
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "UCLA -3.5",
+   "margin": 3.5,
+   "favorite": "UCLA",
+   "over_under": 36.5,
+   "ml_home_open": "+180",
+   "ml_home_close": "+150",
+   "ml_away_open": "-218",
+   "ml_away_close": "-180",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 0.45,
+   "dsp_away": 17.58,
+   "home_adv_league": 10.503,
+   "model_margin_home": -6.6
+  },
+  "fpi_win_pct": {
+   "home": "46.9",
+   "away": "53"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Michigan Wolverines",
+    "games": 10,
+    "ppg": 18.3,
+    "pap_g": 17.7,
+    "ypg": 300.9,
+    "ya_g": 276.5,
+    "yards_per_play": 8.27,
+    "yppa": null,
+    "ypra": 3.77,
+    "third_pct": 40.8,
+    "fourth_pct": 57.1,
+    "to_give": 19,
+    "to_take": 9,
+    "to_margin": -10,
+    "slice_games": 10,
+    "net_punt_drive": 12.8,
+    "punt_pg": 4.5,
+    "drive_to_pg": 1.7,
+    "scoring_drive_pct": 25.2,
+    "avg_start_own_goal": 27.8,
+    "poss_pg": 29.4,
+    "adj_ppa": -0.054,
+    "ppa": 0.503,
+    "qb1": "Bryce Underwood",
+    "qb_games": 5,
+    "rb1": "Savion Hiter",
+    "rb_games": 4,
+    "wr1": "JJ Buchanan",
+    "wr_games": 7
+   },
+   "away": {
+    "team": "UCLA Bruins",
+    "games": 10,
+    "ppg": 32.4,
+    "pap_g": 14.1,
+    "ypg": 424.8,
+    "ya_g": 262.2,
+    "yards_per_play": 10.73,
+    "yppa": null,
+    "ypra": 5.12,
+    "third_pct": 45.3,
+    "fourth_pct": 20.0,
+    "to_give": 14,
+    "to_take": 30,
+    "to_margin": 16,
+    "slice_games": 10,
+    "net_punt_drive": 11.2,
+    "punt_pg": 4.2,
+    "drive_to_pg": 1.4,
+    "scoring_drive_pct": 39.7,
+    "avg_start_own_goal": 35.9,
+    "poss_pg": 32.6,
+    "adj_ppa": 0.379,
+    "ppa": 0.818,
+    "qb1": "Nico Iamaleava",
+    "qb_games": 5,
+    "rb1": "Wayne Knight",
+    "rb_games": 7,
+    "wr1": "Aidan Mizell",
+    "wr_games": 4
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 8,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-13"
+   }
+  },
+  "travel_miles_campus_to_campus": 1936,
+  "home_record": {
+   "home": "4-3",
+   "away": "4-0"
+  },
+  "wind": {
+   "period": "Sunny",
+   "wind_speed": "5 to 8 mph",
+   "wind_dir": "S",
+   "temp": 65,
+   "hourly_at_kickoff": "Sunny | 8 mph S",
+   "forecast_url": "https://api.weather.gov/gridpoints/DTX/42,29/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/DTX/42,29/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": -1.6,
+   "market_margin_signed_home": 3.5,
+   "model_margin_signed_home": -6.6,
+   "home_pts": 17.5,
+   "away_pts": 19.0,
+   "arithmetic": "(36.5 + -1.6)/2 = 17.4 (home); (36.5 - -1.6)/2 = 19.1 (away); blended = mean(market +3.5, Massey model -6.6)"
+  },
+  "named_players": [
+   {
+    "team": "Michigan Wolverines",
+    "side": "home",
+    "name": "Bryce Underwood",
+    "role": "QB1 (most-started QB, 5 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Michigan Wolverines",
+    "side": "home",
+    "name": "Savion Hiter",
+    "role": "most-listed backfield name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: (quarterbacks) Lewis Powell (defensive ends / defensive run game coordinator) Larry Black (defensive tackles) Alex Whittingham (linebackers) Jernaro Gilford (cornerbacks) Tyler Stockton (safeties) Doug Elisaia (strength and conditioning coach) Support staff Eli Alford (assistant ",
+    "flag_urls": [
+     "(quarterbacks) Lewis Powell (defensive ends / defensive run game coordinator) Larry Black (defensive tackles) Alex Whittingham (linebackers) Jernaro Gilford (cornerbacks) Tyler Stockton (safeties) Doug Elisaia (strength and conditioning coach) Support staff Eli Alford (assistant "
+    ]
+   },
+   {
+    "team": "Michigan Wolverines",
+    "side": "home",
+    "name": "JJ Buchanan",
+    "role": "most-listed receiving name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "UCLA Bruins",
+    "side": "away",
+    "name": "Nico Iamaleava",
+    "role": "QB1 (most-started QB, 5 of 10 tracked team box scores)",
+    "status": "FLAGGED: [ 6 ] UCLA opened the season with Nico Iamaleava as their starting quarterback , but he was lost for the season after a leg injury in week 5 against Oregon .",
+    "flag_urls": [
+     "[ 6 ] UCLA opened the season with Nico Iamaleava as their starting quarterback , but he was lost for the season after a leg injury in week 5 against Oregon ."
+    ]
+   },
+   {
+    "team": "UCLA Bruins",
+    "side": "away",
+    "name": "Wayne Knight",
+    "role": "most-listed backfield name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: PST Game weather : Cloudy \u2022 Temperature : 58 \u00b0F (14 \u00b0C) \u2022 Wind : SE at 4 miles per hour (6.4 km/h) Game attendance : 45,800 Referee : Chris Coyte TV announcers (FOX) : Tim Brando , Devin Gardner , and Josh Sims Statistics background-color:#FF5F05!important;color:#13294B!important",
+    "flag_urls": [
+     "PST Game weather : Cloudy \u2022 Temperature : 58 \u00b0F (14 \u00b0C) \u2022 Wind : SE at 4 miles per hour (6.4 km/h) Game attendance : 45,800 Referee : Chris Coyte TV announcers (FOX) : Tim Brando , Devin Gardner , and Josh Sims Statistics background-color:#FF5F05!important;color:#13294B!important"
+    ]
+   },
+   {
+    "team": "UCLA Bruins",
+    "side": "away",
+    "name": "Aidan Mizell",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: PST Game weather : Cloudy \u2022 Temperature : 58 \u00b0F (14 \u00b0C) \u2022 Wind : SE at 4 miles per hour (6.4 km/h) Game attendance : 45,800 Referee : Chris Coyte TV announcers (FOX) : Tim Brando , Devin Gardner , and Josh Sims Statistics background-color:#FF5F05!important;color:#13294B!important",
+    "flag_urls": [
+     "PST Game weather : Cloudy \u2022 Temperature : 58 \u00b0F (14 \u00b0C) \u2022 Wind : SE at 4 miles per hour (6.4 km/h) Game attendance : 45,800 Referee : Chris Coyte TV announcers (FOX) : Tim Brando , Devin Gardner , and Josh Sims Statistics background-color:#FF5F05!important;color:#13294B!important"
+    ]
+   }
+  ]
+ },
+ {
+  "event_id": "401856755",
+  "matchup": "Arkansas Razorbacks at Texas Longhorns",
+  "kickoff_et": "2026-11-21 15:30 ET (Sat)",
+  "venue": "DKR-Texas Memorial Stadium",
+  "city": "Austin",
+  "broadcast": "ESPN/Disney+",
+  "rankings": {
+   "home": {
+    "rank": 8,
+    "team": "Texas",
+    "record": "8\u20132"
+   },
+   "away": null
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "TEX -20.5",
+   "margin": 20.5,
+   "favorite": "TEX",
+   "over_under": 47.5,
+   "ml_home_open": "-1450",
+   "ml_home_close": "-1600",
+   "ml_away_open": "+850",
+   "ml_away_close": "+900",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 25.23,
+   "dsp_away": 8.97,
+   "home_adv_league": 10.503,
+   "model_margin_home": 26.8
+  },
+  "fpi_win_pct": {
+   "home": "94.2",
+   "away": "5.8"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Texas Longhorns",
+    "games": 10,
+    "ppg": 30.2,
+    "pap_g": 17.8,
+    "ypg": 354.7,
+    "ya_g": 288.7,
+    "yards_per_play": 9.83,
+    "yppa": null,
+    "ypra": 3.56,
+    "third_pct": 40.4,
+    "fourth_pct": 61.5,
+    "to_give": 17,
+    "to_take": 13,
+    "to_margin": -4,
+    "slice_games": 10,
+    "net_punt_drive": 7.3,
+    "punt_pg": 4.2,
+    "drive_to_pg": 1.4,
+    "scoring_drive_pct": 44.3,
+    "avg_start_own_goal": 31.2,
+    "poss_pg": 30.2,
+    "adj_ppa": 0.299,
+    "ppa": 0.837,
+    "qb1": "Arch Manning",
+    "qb_games": 10,
+    "rb1": "Hollywood Smothers",
+    "rb_games": 4,
+    "wr1": "Ryan Wingo",
+    "wr_games": 4
+   },
+   "away": {
+    "team": "Arkansas Razorbacks",
+    "games": 10,
+    "ppg": 21.4,
+    "pap_g": 25.3,
+    "ypg": 339.6,
+    "ya_g": 362.5,
+    "yards_per_play": 9.36,
+    "yppa": null,
+    "ypra": 3.25,
+    "third_pct": 42.3,
+    "fourth_pct": 55.6,
+    "to_give": 14,
+    "to_take": 14,
+    "to_margin": 0,
+    "slice_games": 10,
+    "net_punt_drive": 10.4,
+    "punt_pg": 4.1,
+    "drive_to_pg": 1.3,
+    "scoring_drive_pct": 33.9,
+    "avg_start_own_goal": 28.1,
+    "poss_pg": 31.7,
+    "adj_ppa": -0.148,
+    "ppa": 0.59,
+    "qb1": "KJ Jackson",
+    "qb_games": 10,
+    "rb1": "Cam Settles",
+    "rb_games": 5,
+    "wr1": "Chris Marshall",
+    "wr_games": 8
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 449,
+  "home_record": {
+   "home": "5-1",
+   "away": "1-3"
+  },
+  "wind": {
+   "period": "Areas Of Fog then Mostly Sunny",
+   "wind_speed": "0 to 5 mph",
+   "wind_dir": "SSE",
+   "temp": 75,
+   "hourly_at_kickoff": "Mostly Sunny | 5 mph S",
+   "forecast_url": "https://api.weather.gov/gridpoints/EWX/156,92/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/EWX/156,92/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 3.1,
+   "market_margin_signed_home": -20.5,
+   "model_margin_signed_home": 26.8,
+   "home_pts": 25.5,
+   "away_pts": 22.0,
+   "arithmetic": "(47.5 + 3.1)/2 = 25.3 (home); (47.5 - 3.1)/2 = 22.2 (away); blended = mean(market -20.5, Massey model +26.8)"
+  },
+  "named_players": [
+   {
+    "team": "Texas Longhorns",
+    "side": "home",
+    "name": "Arch Manning",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Texas Longhorns",
+    "side": "home",
+    "name": "Hollywood Smothers",
+    "role": "most-listed backfield name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: Hollywood Smothers was dealing with a lower-leg injury and not play.",
+    "flag_urls": [
+     "Hollywood Smothers was dealing with a lower-leg injury and not play."
+    ]
+   },
+   {
+    "team": "Texas Longhorns",
+    "side": "home",
+    "name": "Ryan Wingo",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Arkansas Razorbacks",
+    "side": "away",
+    "name": "KJ Jackson",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Arkansas Razorbacks",
+    "side": "away",
+    "name": "Cam Settles",
+    "role": "most-listed backfield name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Arkansas Razorbacks",
+    "side": "away",
+    "name": "Chris Marshall",
+    "role": "most-listed receiving name in tracked ESPN team box scores (8 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401858535",
+  "matchup": "Indiana Hoosiers at Washington Huskies",
+  "kickoff_et": "2026-11-21 15:30 ET (Sat)",
+  "venue": "Husky Stadium",
+  "city": "Seattle",
+  "broadcast": "Peacock",
+  "rankings": {
+   "home": null,
+   "away": {
+    "rank": 6,
+    "team": "Indiana",
+    "record": "9\u20131"
+   }
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "IU -7.5",
+   "margin": 7.5,
+   "favorite": "IU",
+   "over_under": 43.5,
+   "ml_home_open": "+225",
+   "ml_home_close": "+250",
+   "ml_away_open": "-278",
+   "ml_away_close": "-310",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 6.54,
+   "dsp_away": 15.73,
+   "home_adv_league": 10.503,
+   "model_margin_home": 1.3
+  },
+  "fpi_win_pct": {
+   "home": "21.4",
+   "away": "78.6"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Washington Huskies",
+    "games": 10,
+    "ppg": 25.8,
+    "pap_g": 21.1,
+    "ypg": 361.2,
+    "ya_g": 349.6,
+    "yards_per_play": 13.23,
+    "yppa": null,
+    "ypra": 3.44,
+    "third_pct": 34.9,
+    "fourth_pct": 69.2,
+    "to_give": 11,
+    "to_take": 16,
+    "to_margin": 5,
+    "slice_games": 10,
+    "net_punt_drive": 9.5,
+    "punt_pg": 5.0,
+    "drive_to_pg": 0.8,
+    "scoring_drive_pct": 38.3,
+    "avg_start_own_goal": 28.0,
+    "poss_pg": 29.0,
+    "adj_ppa": 0.339,
+    "ppa": 0.945,
+    "qb1": "Demond Williams Jr.",
+    "qb_games": 7,
+    "rb1": "Brian Bonner Jr.",
+    "rb_games": 4,
+    "wr1": "Chris Lawson",
+    "wr_games": 7
+   },
+   "away": {
+    "team": "Indiana Hoosiers",
+    "games": 10,
+    "ppg": 31.9,
+    "pap_g": 12.5,
+    "ypg": 422.7,
+    "ya_g": 274.2,
+    "yards_per_play": 12.08,
+    "yppa": null,
+    "ypra": 5.21,
+    "third_pct": 41.7,
+    "fourth_pct": 50.0,
+    "to_give": 7,
+    "to_take": 12,
+    "to_margin": 5,
+    "slice_games": 10,
+    "net_punt_drive": 10.2,
+    "punt_pg": 3.4,
+    "drive_to_pg": 0.6,
+    "scoring_drive_pct": 47.3,
+    "avg_start_own_goal": 31.7,
+    "poss_pg": 29.5,
+    "adj_ppa": 0.504,
+    "ppa": 0.911,
+    "qb1": "Josh Hoover",
+    "qb_games": 8,
+    "rb1": "Turbo Richard",
+    "rb_games": 5,
+    "wr1": "Charlie Becker",
+    "wr_games": 7
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 1869,
+  "home_record": {
+   "home": "3-3",
+   "away": "3-0"
+  },
+  "wind": {
+   "period": "Patchy Fog then Chance Light Rain",
+   "wind_speed": "2 mph",
+   "wind_dir": "N",
+   "temp": 51,
+   "hourly_at_kickoff": "Partly Sunny | 2 mph SSE",
+   "forecast_url": "https://api.weather.gov/gridpoints/SEW/126,70/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/SEW/126,70/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 4.4,
+   "market_margin_signed_home": 7.5,
+   "model_margin_signed_home": 1.3,
+   "home_pts": 24.0,
+   "away_pts": 19.5,
+   "arithmetic": "(43.5 + 4.4)/2 = 23.9 (home); (43.5 - 4.4)/2 = 19.6 (away); blended = mean(market +7.5, Massey model +1.3)"
+  },
+  "named_players": [
+   {
+    "team": "Washington Huskies",
+    "side": "home",
+    "name": "Demond Williams Jr.",
+    "role": "QB1 (most-started QB, 7 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Washington Huskies",
+    "side": "home",
+    "name": "Brian Bonner Jr.",
+    "role": "most-listed backfield name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Washington Huskies",
+    "side": "home",
+    "name": "Chris Lawson",
+    "role": "most-listed receiving name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Indiana Hoosiers",
+    "side": "away",
+    "name": "Josh Hoover",
+    "role": "QB1 (most-started QB, 8 of 10 tracked team box scores)",
+    "status": "FLAGGED: # Name Class K 15 Nico Radicic Jr P 19 Billy Gowers So K 35 Paddy McAteer Sr K 43 Bryce Taylor Fr LS 47 Jackson Tolle Fr LS 55 Drew Clausen GS LS 57 Sam Lindsey Jr K 90 Josh Placzek So K 93 Quinn Warren Jr Head coach Curt Cignetti Coordinators/assistant coaches Bryant Haines (Def",
+    "flag_urls": [
+     "# Name Class K 15 Nico Radicic Jr P 19 Billy Gowers So K 35 Paddy McAteer Sr K 43 Bryce Taylor Fr LS 47 Jackson Tolle Fr LS 55 Drew Clausen GS LS 57 Sam Lindsey Jr K 90 Josh Placzek So K 93 Quinn Warren Jr Head coach Curt Cignetti Coordinators/assistant coaches Bryant Haines (Def"
+    ]
+   },
+   {
+    "team": "Indiana Hoosiers",
+    "side": "away",
+    "name": "Turbo Richard",
+    "role": "most-listed backfield name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: # Name Class K 15 Nico Radicic Jr P 19 Billy Gowers So K 35 Paddy McAteer Sr K 43 Bryce Taylor Fr LS 47 Jackson Tolle Fr LS 55 Drew Clausen GS LS 57 Sam Lindsey Jr K 90 Josh Placzek So K 93 Quinn Warren Jr Head coach Curt Cignetti Coordinators/assistant coaches Bryant Haines (Def",
+    "flag_urls": [
+     "# Name Class K 15 Nico Radicic Jr P 19 Billy Gowers So K 35 Paddy McAteer Sr K 43 Bryce Taylor Fr LS 47 Jackson Tolle Fr LS 55 Drew Clausen GS LS 57 Sam Lindsey Jr K 90 Josh Placzek So K 93 Quinn Warren Jr Head coach Curt Cignetti Coordinators/assistant coaches Bryant Haines (Def"
+    ]
+   },
+   {
+    "team": "Indiana Hoosiers",
+    "side": "away",
+    "name": "Charlie Becker",
+    "role": "most-listed receiving name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: # Name Class K 15 Nico Radicic Jr P 19 Billy Gowers So K 35 Paddy McAteer Sr K 43 Bryce Taylor Fr LS 47 Jackson Tolle Fr LS 55 Drew Clausen GS LS 57 Sam Lindsey Jr K 90 Josh Placzek So K 93 Quinn Warren Jr Head coach Curt Cignetti Coordinators/assistant coaches Bryant Haines (Def",
+    "flag_urls": [
+     "# Name Class K 15 Nico Radicic Jr P 19 Billy Gowers So K 35 Paddy McAteer Sr K 43 Bryce Taylor Fr LS 47 Jackson Tolle Fr LS 55 Drew Clausen GS LS 57 Sam Lindsey Jr K 90 Josh Placzek So K 93 Quinn Warren Jr Head coach Curt Cignetti Coordinators/assistant coaches Bryant Haines (Def"
+    ]
+   }
+  ]
+ },
+ {
+  "event_id": "401856754",
+  "matchup": "LSU Tigers at Tennessee Volunteers",
+  "kickoff_et": "2026-11-21 15:30 ET (Sat)",
+  "venue": "Neyland Stadium",
+  "city": "Knoxville",
+  "broadcast": "ABC",
+  "rankings": {
+   "home": {
+    "rank": 9,
+    "team": "Tennessee",
+    "record": "8\u20132"
+   },
+   "away": null
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "LSU -1.5",
+   "margin": 1.5,
+   "favorite": "LSU",
+   "over_under": 45.5,
+   "ml_home_open": "-102",
+   "ml_home_close": "-105",
+   "ml_away_open": "-118",
+   "ml_away_close": "-115",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 24.53,
+   "dsp_away": 24.8,
+   "home_adv_league": 10.503,
+   "model_margin_home": 10.2
+  },
+  "fpi_win_pct": {
+   "home": "49.9",
+   "away": "50.1"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Tennessee Volunteers",
+    "games": 10,
+    "ppg": 31.4,
+    "pap_g": 14.3,
+    "ypg": 385.5,
+    "ya_g": 284.7,
+    "yards_per_play": 8.66,
+    "yppa": null,
+    "ypra": 4.81,
+    "third_pct": 36.5,
+    "fourth_pct": 77.8,
+    "to_give": 11,
+    "to_take": 19,
+    "to_margin": 8,
+    "slice_games": 10,
+    "net_punt_drive": 11.5,
+    "punt_pg": 4.1,
+    "drive_to_pg": 1.0,
+    "scoring_drive_pct": 46.2,
+    "avg_start_own_goal": 28.6,
+    "poss_pg": 31.8,
+    "adj_ppa": 0.26,
+    "ppa": 0.706,
+    "qb1": "George MacIntyre",
+    "qb_games": 6,
+    "rb1": "DeSean Bishop",
+    "rb_games": 9,
+    "wr1": "Mike Matthews",
+    "wr_games": 5
+   },
+   "away": {
+    "team": "LSU Tigers",
+    "games": 10,
+    "ppg": 35.5,
+    "pap_g": 18.1,
+    "ypg": 490.3,
+    "ya_g": 262.3,
+    "yards_per_play": 12.29,
+    "yppa": null,
+    "ypra": 4.35,
+    "third_pct": 50.0,
+    "fourth_pct": 68.2,
+    "to_give": 16,
+    "to_take": 12,
+    "to_margin": -4,
+    "slice_games": 10,
+    "net_punt_drive": 8.7,
+    "punt_pg": 2.9,
+    "drive_to_pg": 1.5,
+    "scoring_drive_pct": 50.4,
+    "avg_start_own_goal": 31.0,
+    "poss_pg": 32.7,
+    "adj_ppa": 0.265,
+    "ppa": 0.89,
+    "qb1": "Sam Leavitt",
+    "qb_games": 10,
+    "rb1": "Dilin Jones",
+    "rb_games": 8,
+    "wr1": "Jackson Harris",
+    "wr_games": 4
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 568,
+  "home_record": {
+   "home": "5-1",
+   "away": "1-2"
+  },
+  "wind": {
+   "period": "Mostly Cloudy",
+   "wind_speed": "0 to 5 mph",
+   "wind_dir": "NE",
+   "temp": 68,
+   "hourly_at_kickoff": "Mostly Cloudy | 0 mph",
+   "forecast_url": "https://api.weather.gov/gridpoints/MRX/71,51/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/MRX/71,51/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 5.9,
+   "market_margin_signed_home": 1.5,
+   "model_margin_signed_home": 10.2,
+   "home_pts": 25.5,
+   "away_pts": 20.0,
+   "arithmetic": "(45.5 + 5.9)/2 = 25.7 (home); (45.5 - 5.9)/2 = 19.8 (away); blended = mean(market +1.5, Massey model +10.2)"
+  },
+  "named_players": [
+   {
+    "team": "Tennessee Volunteers",
+    "side": "home",
+    "name": "George MacIntyre",
+    "role": "QB1 (most-started QB, 6 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Tennessee Volunteers",
+    "side": "home",
+    "name": "DeSean Bishop",
+    "role": "most-listed backfield name in tracked ESPN team box scores (9 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Tennessee Volunteers",
+    "side": "home",
+    "name": "Mike Matthews",
+    "role": "most-listed receiving name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "LSU Tigers",
+    "side": "away",
+    "name": "Sam Leavitt",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "LSU Tigers",
+    "side": "away",
+    "name": "Dilin Jones",
+    "role": "most-listed backfield name in tracked ESPN team box scores (8 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "LSU Tigers",
+    "side": "away",
+    "name": "Jackson Harris",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401856871",
+  "matchup": "Texas Tech Red Raiders at Baylor Bears",
+  "kickoff_et": "2026-11-21 15:30 ET (Sat)",
+  "venue": "McLane Stadium",
+  "city": "Waco",
+  "broadcast": "Fox",
+  "rankings": {
+   "home": null,
+   "away": {
+    "rank": 8,
+    "team": "Texas",
+    "record": "8\u20132"
+   }
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "TTU -4.5",
+   "margin": 4.5,
+   "favorite": "TTU",
+   "over_under": 56.5,
+   "ml_home_open": "-108",
+   "ml_home_close": "+170",
+   "ml_away_open": "-112",
+   "ml_away_close": "-205",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 17.6,
+   "dsp_away": 18.37,
+   "home_adv_league": 10.503,
+   "model_margin_home": 9.7
+  },
+  "fpi_win_pct": {
+   "home": "38.6",
+   "away": "61.4"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Baylor Bears",
+    "games": 10,
+    "ppg": 29.4,
+    "pap_g": 18.1,
+    "ypg": 413.9,
+    "ya_g": 344.6,
+    "yards_per_play": 11.19,
+    "yppa": null,
+    "ypra": 4.0,
+    "third_pct": 41.2,
+    "fourth_pct": 56.5,
+    "to_give": 12,
+    "to_take": 16,
+    "to_margin": 4,
+    "slice_games": 10,
+    "net_punt_drive": 8.6,
+    "punt_pg": 4.4,
+    "drive_to_pg": 1.2,
+    "scoring_drive_pct": 36.4,
+    "avg_start_own_goal": 32.3,
+    "poss_pg": 28.2,
+    "adj_ppa": 0.307,
+    "ppa": 0.795,
+    "qb1": "DJ Lagway",
+    "qb_games": 8,
+    "rb1": "Dawson Pendergrass",
+    "rb_games": 3,
+    "wr1": "Gavin Freeman",
+    "wr_games": 7
+   },
+   "away": {
+    "team": "Texas Tech Red Raiders",
+    "games": 10,
+    "ppg": 39.0,
+    "pap_g": 24.4,
+    "ypg": 448.6,
+    "ya_g": 408.6,
+    "yards_per_play": 11.16,
+    "yppa": null,
+    "ypra": 5.24,
+    "third_pct": 39.7,
+    "fourth_pct": 62.5,
+    "to_give": 14,
+    "to_take": 16,
+    "to_margin": 2,
+    "slice_games": 10,
+    "net_punt_drive": 9.1,
+    "punt_pg": 3.9,
+    "drive_to_pg": 1.3,
+    "scoring_drive_pct": 47.4,
+    "avg_start_own_goal": 31.3,
+    "poss_pg": 28.4,
+    "adj_ppa": 0.261,
+    "ppa": 0.97,
+    "qb1": "Will Hammond",
+    "qb_games": 7,
+    "rb1": "J'Koby Williams",
+    "rb_games": 8,
+    "wr1": "Kenny Johnson",
+    "wr_games": 7
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 311,
+  "home_record": {
+   "home": "4-1",
+   "away": "3-1"
+  },
+  "wind": {
+   "period": "Patchy Fog then Partly Sunny",
+   "wind_speed": "5 to 10 mph",
+   "wind_dir": "SSE",
+   "temp": 77,
+   "hourly_at_kickoff": "Partly Sunny | 10 mph S",
+   "forecast_url": "https://api.weather.gov/gridpoints/FWD/77,50/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/FWD/77,50/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 7.1,
+   "market_margin_signed_home": 4.5,
+   "model_margin_signed_home": 9.7,
+   "home_pts": 32.0,
+   "away_pts": 24.5,
+   "arithmetic": "(56.5 + 7.1)/2 = 31.8 (home); (56.5 - 7.1)/2 = 24.7 (away); blended = mean(market +4.5, Massey model +9.7)"
+  },
+  "named_players": [
+   {
+    "team": "Baylor Bears",
+    "side": "home",
+    "name": "DJ Lagway",
+    "role": "QB1 (most-started QB, 8 of 10 tracked team box scores)",
+    "status": "FLAGGED: # Name Class LS 93 Dylan Schaub Jr P 94 Palmer Williams Sr K 96 Riley Sullivan Jr K , P 97 Bronson Mueller Fr K 98 Rhett Armstrong So Head coach Dave Aranda Coordinators/assistant coaches Khenon Hall Associate Head Coach and Running Backs Coach Joe Klanderman Defensive Coordinato",
+    "flag_urls": [
+     "# Name Class LS 93 Dylan Schaub Jr P 94 Palmer Williams Sr K 96 Riley Sullivan Jr K , P 97 Bronson Mueller Fr K 98 Rhett Armstrong So Head coach Dave Aranda Coordinators/assistant coaches Khenon Hall Associate Head Coach and Running Backs Coach Joe Klanderman Defensive Coordinato"
+    ]
+   },
+   {
+    "team": "Baylor Bears",
+    "side": "home",
+    "name": "Dawson Pendergrass",
+    "role": "most-listed backfield name in tracked ESPN team box scores (3 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Baylor Bears",
+    "side": "home",
+    "name": "Gavin Freeman",
+    "role": "most-listed receiving name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: # Name Class LS 93 Dylan Schaub Jr P 94 Palmer Williams Sr K 96 Riley Sullivan Jr K , P 97 Bronson Mueller Fr K 98 Rhett Armstrong So Head coach Dave Aranda Coordinators/assistant coaches Khenon Hall Associate Head Coach and Running Backs Coach Joe Klanderman Defensive Coordinato",
+    "flag_urls": [
+     "# Name Class LS 93 Dylan Schaub Jr P 94 Palmer Williams Sr K 96 Riley Sullivan Jr K , P 97 Bronson Mueller Fr K 98 Rhett Armstrong So Head coach Dave Aranda Coordinators/assistant coaches Khenon Hall Associate Head Coach and Running Backs Coach Joe Klanderman Defensive Coordinato"
+    ]
+   },
+   {
+    "team": "Texas Tech Red Raiders",
+    "side": "away",
+    "name": "Will Hammond",
+    "role": "QB1 (most-started QB, 7 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Texas Tech Red Raiders",
+    "side": "away",
+    "name": "J'Koby Williams",
+    "role": "most-listed backfield name in tracked ESPN team box scores (8 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Texas Tech Red Raiders",
+    "side": "away",
+    "name": "Kenny Johnson",
+    "role": "most-listed receiving name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401856752",
+  "matchup": "Texas A&M Aggies at Oklahoma Sooners",
+  "kickoff_et": "2026-11-21 15:45 ET (Sat)",
+  "venue": "Memorial Stadium (Norman, OK)",
+  "city": "Norman",
+  "broadcast": "ESPN2",
+  "rankings": {
+   "home": null,
+   "away": {
+    "rank": 8,
+    "team": "Texas",
+    "record": "8\u20132"
+   }
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "OU -7",
+   "margin": 7.0,
+   "favorite": "OU",
+   "over_under": 37.5,
+   "ml_home_open": "-142",
+   "ml_home_close": "-290",
+   "ml_away_open": "+120",
+   "ml_away_close": "+235",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 12.61,
+   "dsp_away": 14.5,
+   "home_adv_league": 10.503,
+   "model_margin_home": 8.6
+  },
+  "fpi_win_pct": {
+   "home": "61.7",
+   "away": "38.3"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Oklahoma Sooners",
+    "games": 10,
+    "ppg": 22.3,
+    "pap_g": 19.0,
+    "ypg": 334.5,
+    "ya_g": 294.6,
+    "yards_per_play": 9.34,
+    "yppa": null,
+    "ypra": 3.31,
+    "third_pct": 40.9,
+    "fourth_pct": 50.0,
+    "to_give": 15,
+    "to_take": 13,
+    "to_margin": -2,
+    "slice_games": 10,
+    "net_punt_drive": 8.0,
+    "punt_pg": 4.3,
+    "drive_to_pg": 1.3,
+    "scoring_drive_pct": 34.8,
+    "avg_start_own_goal": 27.5,
+    "poss_pg": 31.6,
+    "adj_ppa": 0.024,
+    "ppa": 0.623,
+    "qb1": "John Mateer",
+    "qb_games": 10,
+    "rb1": "Lloyd Avant",
+    "rb_games": 5,
+    "wr1": "Isaiah Sategna III",
+    "wr_games": 4
+   },
+   "away": {
+    "team": "Texas A&M Aggies",
+    "games": 10,
+    "ppg": 24.2,
+    "pap_g": 19.0,
+    "ypg": 341.2,
+    "ya_g": 319.0,
+    "yards_per_play": 9.37,
+    "yppa": null,
+    "ypra": 4.22,
+    "third_pct": 40.3,
+    "fourth_pct": 42.9,
+    "to_give": 13,
+    "to_take": 11,
+    "to_margin": -2,
+    "slice_games": 10,
+    "net_punt_drive": null,
+    "punt_pg": 4.0,
+    "drive_to_pg": 1.3,
+    "scoring_drive_pct": 293.3,
+    "avg_start_own_goal": 71.9,
+    "poss_pg": 31.1,
+    "adj_ppa": 0.074,
+    "ppa": 0.665,
+    "qb1": "Marcel Reed",
+    "qb_games": 10,
+    "rb1": "KJ Edwards",
+    "rb_games": 5,
+    "wr1": "Isaiah Horton",
+    "wr_games": 3
+   }
+  },
+  "rest_days": {
+   "home": 6,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-15",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 324,
+  "home_record": {
+   "home": "4-2",
+   "away": "0-4"
+  },
+  "wind": {
+   "period": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+   "wind_speed": "10 to 18 mph",
+   "wind_dir": "S",
+   "temp": 69,
+   "hourly_at_kickoff": "Slight Chance Showers And Thunderstorms | 16 mph S",
+   "forecast_url": "https://api.weather.gov/gridpoints/OUN/100,82/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/OUN/100,82/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 0.8,
+   "market_margin_signed_home": -7.0,
+   "model_margin_signed_home": 8.6,
+   "home_pts": 19.0,
+   "away_pts": 18.5,
+   "arithmetic": "(37.5 + 0.8)/2 = 19.1 (home); (37.5 - 0.8)/2 = 18.4 (away); blended = mean(market -7.0, Massey model +8.6)"
+  },
+  "named_players": [
+   {
+    "team": "Oklahoma Sooners",
+    "side": "home",
+    "name": "John Mateer",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Oklahoma Sooners",
+    "side": "home",
+    "name": "Lloyd Avant",
+    "role": "most-listed backfield name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Oklahoma Sooners",
+    "side": "home",
+    "name": "Isaiah Sategna III",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Texas A&M Aggies",
+    "side": "away",
+    "name": "Marcel Reed",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Texas A&M Aggies",
+    "side": "away",
+    "name": "KJ Edwards",
+    "role": "most-listed backfield name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Texas A&M Aggies",
+    "side": "away",
+    "name": "Isaiah Horton",
+    "role": "most-listed receiving name in tracked ESPN team box scores (3 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401858534",
+  "matchup": "Maryland Terrapins at USC Trojans",
+  "kickoff_et": "2026-11-21 18:15 ET (Sat)",
+  "venue": "Los Angeles Memorial Coliseum",
+  "city": "Los Angeles",
+  "broadcast": "BTN",
+  "rankings": {
+   "home": {
+    "rank": 18,
+    "team": "USC",
+    "record": "7\u20133"
+   },
+   "away": null
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "USC -17.5",
+   "margin": 17.5,
+   "favorite": "USC",
+   "over_under": 56.5,
+   "ml_home_open": "-800",
+   "ml_home_close": "-950",
+   "ml_away_open": "+550",
+   "ml_away_close": "+625",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 11.46,
+   "dsp_away": -4.56,
+   "home_adv_league": 10.503,
+   "model_margin_home": 26.5
+  },
+  "fpi_win_pct": {
+   "home": "93.1",
+   "away": "6.9"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "USC Trojans",
+    "games": 10,
+    "ppg": 30.5,
+    "pap_g": 24.5,
+    "ypg": 422.3,
+    "ya_g": 356.5,
+    "yards_per_play": 13.07,
+    "yppa": null,
+    "ypra": 3.91,
+    "third_pct": 46.6,
+    "fourth_pct": 65.0,
+    "to_give": 12,
+    "to_take": 8,
+    "to_margin": -4,
+    "slice_games": 10,
+    "net_punt_drive": 11.0,
+    "punt_pg": 2.0,
+    "drive_to_pg": 1.2,
+    "scoring_drive_pct": 46.1,
+    "avg_start_own_goal": 28.1,
+    "poss_pg": 30.8,
+    "adj_ppa": 0.161,
+    "ppa": 0.944,
+    "qb1": "Jayden Maiava",
+    "qb_games": 10,
+    "rb1": "King Miller",
+    "rb_games": 7,
+    "wr1": "Trent Mosley",
+    "wr_games": 5
+   },
+   "away": {
+    "team": "Maryland Terrapins",
+    "games": 10,
+    "ppg": 27.3,
+    "pap_g": 30.3,
+    "ypg": 361.2,
+    "ya_g": 359.9,
+    "yards_per_play": 12.0,
+    "yppa": null,
+    "ypra": 4.23,
+    "third_pct": 34.1,
+    "fourth_pct": 63.2,
+    "to_give": 11,
+    "to_take": 15,
+    "to_margin": 4,
+    "slice_games": 10,
+    "net_punt_drive": 10.1,
+    "punt_pg": 4.8,
+    "drive_to_pg": 1.0,
+    "scoring_drive_pct": 37.9,
+    "avg_start_own_goal": 32.5,
+    "poss_pg": 27.9,
+    "adj_ppa": 0.105,
+    "ppa": 0.907,
+    "qb1": "Malik Washington",
+    "qb_games": 9,
+    "rb1": "DeJuan Williams",
+    "rb_games": 6,
+    "wr1": "Chris Durr Jr.",
+    "wr_games": 7
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 2302,
+  "home_record": {
+   "home": "5-1",
+   "away": "2-2"
+  },
+  "wind": {
+   "period": "Sunny",
+   "wind_speed": "0 to 5 mph",
+   "wind_dir": "NW",
+   "temp": 68,
+   "hourly_at_kickoff": "Sunny | 5 mph W",
+   "forecast_url": "https://api.weather.gov/gridpoints/LOX/153,44/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/LOX/153,44/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 4.5,
+   "market_margin_signed_home": -17.5,
+   "model_margin_signed_home": 26.5,
+   "home_pts": 30.5,
+   "away_pts": 26.0,
+   "arithmetic": "(56.5 + 4.5)/2 = 30.5 (home); (56.5 - 4.5)/2 = 26.0 (away); blended = mean(market -17.5, Massey model +26.5)"
+  },
+  "named_players": [
+   {
+    "team": "USC Trojans",
+    "side": "home",
+    "name": "Jayden Maiava",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "FLAGGED: Floyd Boucard Braylan Shelby Jadyn Ramos CB Chasen Johnson OR Elbert \u201cRock\u201d Hill IV Offense Pro-style WR Tanook Hines OR Tron Baker WR Kayden Dixon-Wyatt Ethan \u201cBoobie\u201d Feaster LT LG C RG RT Elijah Paige Hayden Treter OR Kaylon Miller Tobias Raymond Alani Noa Justin Tauanuu Vlad ",
+    "flag_urls": [
+     "Floyd Boucard Braylan Shelby Jadyn Ramos CB Chasen Johnson OR Elbert \u201cRock\u201d Hill IV Offense Pro-style WR Tanook Hines OR Tron Baker WR Kayden Dixon-Wyatt Ethan \u201cBoobie\u201d Feaster LT LG C RG RT Elijah Paige Hayden Treter OR Kaylon Miller Tobias Raymond Alani Noa Justin Tauanuu Vlad "
+    ]
+   },
+   {
+    "team": "USC Trojans",
+    "side": "home",
+    "name": "King Miller",
+    "role": "most-listed backfield name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: Floyd Boucard Braylan Shelby Jadyn Ramos CB Chasen Johnson OR Elbert \u201cRock\u201d Hill IV Offense Pro-style WR Tanook Hines OR Tron Baker WR Kayden Dixon-Wyatt Ethan \u201cBoobie\u201d Feaster LT LG C RG RT Elijah Paige Hayden Treter OR Kaylon Miller Tobias Raymond Alani Noa Justin Tauanuu Vlad ",
+    "flag_urls": [
+     "Floyd Boucard Braylan Shelby Jadyn Ramos CB Chasen Johnson OR Elbert \u201cRock\u201d Hill IV Offense Pro-style WR Tanook Hines OR Tron Baker WR Kayden Dixon-Wyatt Ethan \u201cBoobie\u201d Feaster LT LG C RG RT Elijah Paige Hayden Treter OR Kaylon Miller Tobias Raymond Alani Noa Justin Tauanuu Vlad "
+    ]
+   },
+   {
+    "team": "USC Trojans",
+    "side": "home",
+    "name": "Trent Mosley",
+    "role": "most-listed receiving name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: Floyd Boucard Braylan Shelby Jadyn Ramos CB Chasen Johnson OR Elbert \u201cRock\u201d Hill IV Offense Pro-style WR Tanook Hines OR Tron Baker WR Kayden Dixon-Wyatt Ethan \u201cBoobie\u201d Feaster LT LG C RG RT Elijah Paige Hayden Treter OR Kaylon Miller Tobias Raymond Alani Noa Justin Tauanuu Vlad ",
+    "flag_urls": [
+     "Floyd Boucard Braylan Shelby Jadyn Ramos CB Chasen Johnson OR Elbert \u201cRock\u201d Hill IV Offense Pro-style WR Tanook Hines OR Tron Baker WR Kayden Dixon-Wyatt Ethan \u201cBoobie\u201d Feaster LT LG C RG RT Elijah Paige Hayden Treter OR Kaylon Miller Tobias Raymond Alani Noa Justin Tauanuu Vlad "
+    ]
+   },
+   {
+    "team": "Maryland Terrapins",
+    "side": "away",
+    "name": "Malik Washington",
+    "role": "QB1 (most-started QB, 9 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Maryland Terrapins",
+    "side": "away",
+    "name": "DeJuan Williams",
+    "role": "most-listed backfield name in tracked ESPN team box scores (6 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Maryland Terrapins",
+    "side": "away",
+    "name": "Chris Durr Jr.",
+    "role": "most-listed receiving name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401858302",
+  "matchup": "Virginia Tech Hokies at Miami Hurricanes",
+  "kickoff_et": "2026-11-21 19:00 ET (Sat)",
+  "venue": "Hard Rock Stadium",
+  "city": "Miami Gardens",
+  "broadcast": "ESPN/Disney+",
+  "rankings": {
+   "home": {
+    "rank": 5,
+    "team": "Miami (FL)",
+    "record": "9\u20131"
+   },
+   "away": null
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "MIA -20.5",
+   "margin": 20.5,
+   "favorite": "MIA",
+   "over_under": 60.5,
+   "ml_home_open": "-1050",
+   "ml_home_close": "-1650",
+   "ml_away_open": "+675",
+   "ml_away_close": "+950",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 30.05,
+   "dsp_away": -2.65,
+   "home_adv_league": 10.503,
+   "model_margin_home": 43.2
+  },
+  "fpi_win_pct": {
+   "home": "96.3",
+   "away": "3.7"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Miami Hurricanes",
+    "games": 10,
+    "ppg": 44.1,
+    "pap_g": 19.8,
+    "ypg": 518.1,
+    "ya_g": 325.4,
+    "yards_per_play": 14.59,
+    "yppa": null,
+    "ypra": 5.27,
+    "third_pct": 52.6,
+    "fourth_pct": 50.0,
+    "to_give": 5,
+    "to_take": 11,
+    "to_margin": 6,
+    "slice_games": 10,
+    "net_punt_drive": 9.9,
+    "punt_pg": 2.6,
+    "drive_to_pg": 0.4,
+    "scoring_drive_pct": 61.4,
+    "avg_start_own_goal": 29.0,
+    "poss_pg": 33.7,
+    "adj_ppa": 0.427,
+    "ppa": 1.242,
+    "qb1": "Darian Mensah",
+    "qb_games": 10,
+    "rb1": "Javian Mallory",
+    "rb_games": 5,
+    "wr1": "Malachi Toney",
+    "wr_games": 7
+   },
+   "away": {
+    "team": "Virginia Tech Hokies",
+    "games": 10,
+    "ppg": 33.0,
+    "pap_g": 25.5,
+    "ypg": 420.8,
+    "ya_g": 349.6,
+    "yards_per_play": 11.43,
+    "yppa": null,
+    "ypra": 3.73,
+    "third_pct": 41.7,
+    "fourth_pct": 68.2,
+    "to_give": 15,
+    "to_take": 7,
+    "to_margin": -8,
+    "slice_games": 10,
+    "net_punt_drive": 8.1,
+    "punt_pg": 3.5,
+    "drive_to_pg": 1.0,
+    "scoring_drive_pct": 42.1,
+    "avg_start_own_goal": 31.1,
+    "poss_pg": 31.3,
+    "adj_ppa": 0.053,
+    "ppa": 0.897,
+    "qb1": "Ethan Grunkemeyer",
+    "qb_games": 10,
+    "rb1": "Jeffrey Overton Jr.",
+    "rb_games": 9,
+    "wr1": "Que'Sean Brown",
+    "wr_games": 6
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 778,
+  "home_record": {
+   "home": "5-0",
+   "away": "3-2"
+  },
+  "wind": {
+   "period": "Partly Cloudy",
+   "wind_speed": "3 to 7 mph",
+   "wind_dir": "S",
+   "temp": 72,
+   "hourly_at_kickoff": "Mostly Cloudy | 6 mph S",
+   "forecast_url": "https://api.weather.gov/gridpoints/MFL/107,58/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/MFL/107,58/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 11.3,
+   "market_margin_signed_home": -20.5,
+   "model_margin_signed_home": 43.2,
+   "home_pts": 36.0,
+   "away_pts": 24.5,
+   "arithmetic": "(60.5 + 11.3)/2 = 35.9 (home); (60.5 - 11.3)/2 = 24.6 (away); blended = mean(market -20.5, Massey model +43.2)"
+  },
+  "named_players": [
+   {
+    "team": "Miami Hurricanes",
+    "side": "home",
+    "name": "Darian Mensah",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Miami Hurricanes",
+    "side": "home",
+    "name": "Javian Mallory",
+    "role": "most-listed backfield name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: # Name Class K 22 Jake Weinberg So LS 46 Adam Booker Sr K 82 Jack Olsen Sr P 94 Dylan Joyce Sr P 96 Tucker Tevepaugh So K 97 Will Rocha Jr Head coach Mario Cristobal Coordinators/assistant coaches Shannon Dawson \u2013 Offensive Coordinator/Quarterbacks Corey Hetherman \u2013 Defensive Coo",
+    "flag_urls": [
+     "# Name Class K 22 Jake Weinberg So LS 46 Adam Booker Sr K 82 Jack Olsen Sr P 94 Dylan Joyce Sr P 96 Tucker Tevepaugh So K 97 Will Rocha Jr Head coach Mario Cristobal Coordinators/assistant coaches Shannon Dawson \u2013 Offensive Coordinator/Quarterbacks Corey Hetherman \u2013 Defensive Coo"
+    ]
+   },
+   {
+    "team": "Miami Hurricanes",
+    "side": "home",
+    "name": "Malachi Toney",
+    "role": "most-listed receiving name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: # Name Class K 22 Jake Weinberg So LS 46 Adam Booker Sr K 82 Jack Olsen Sr P 94 Dylan Joyce Sr P 96 Tucker Tevepaugh So K 97 Will Rocha Jr Head coach Mario Cristobal Coordinators/assistant coaches Shannon Dawson \u2013 Offensive Coordinator/Quarterbacks Corey Hetherman \u2013 Defensive Coo",
+    "flag_urls": [
+     "# Name Class K 22 Jake Weinberg So LS 46 Adam Booker Sr K 82 Jack Olsen Sr P 94 Dylan Joyce Sr P 96 Tucker Tevepaugh So K 97 Will Rocha Jr Head coach Mario Cristobal Coordinators/assistant coaches Shannon Dawson \u2013 Offensive Coordinator/Quarterbacks Corey Hetherman \u2013 Defensive Coo"
+    ]
+   },
+   {
+    "team": "Virginia Tech Hokies",
+    "side": "away",
+    "name": "Ethan Grunkemeyer",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Virginia Tech Hokies",
+    "side": "away",
+    "name": "Jeffrey Overton Jr.",
+    "role": "most-listed backfield name in tracked ESPN team box scores (9 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: Assistant linebackers Mike Moyseenko Assistant quarterbacks Cam Phillips Assistant wide receivers Danny Rocco Senior defensive analyst for offense David Rocco Associate tight ends Warren Ruggiero Senior offensive analyst Pat Shepard Assistant special teams Derrick Tangelo Assista",
+    "flag_urls": [
+     "Assistant linebackers Mike Moyseenko Assistant quarterbacks Cam Phillips Assistant wide receivers Danny Rocco Senior defensive analyst for offense David Rocco Associate tight ends Warren Ruggiero Senior offensive analyst Pat Shepard Assistant special teams Derrick Tangelo Assista"
+    ]
+   },
+   {
+    "team": "Virginia Tech Hokies",
+    "side": "away",
+    "name": "Que'Sean Brown",
+    "role": "most-listed receiving name in tracked ESPN team box scores (6 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401856865",
+  "matchup": "Arizona Wildcats at Kansas State Wildcats",
+  "kickoff_et": "2026-11-21 19:00 ET (Sat)",
+  "venue": "Bill Snyder Family Stadium",
+  "city": "Manhattan",
+  "broadcast": "FS1",
+  "rankings": {
+   "home": null,
+   "away": {
+    "rank": 19,
+    "team": "Arizona",
+    "record": "7\u20133"
+   }
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "ARIZ -7.5",
+   "margin": 7.5,
+   "favorite": "ARIZ",
+   "over_under": 51.5,
+   "ml_home_open": "+300",
+   "ml_home_close": "+235",
+   "ml_away_open": "-380",
+   "ml_away_close": "-290",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": -0.27,
+   "dsp_away": 17.02,
+   "home_adv_league": 10.503,
+   "model_margin_home": -6.8
+  },
+  "fpi_win_pct": {
+   "home": "25.4",
+   "away": "74.6"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Kansas State Wildcats",
+    "games": 10,
+    "ppg": 29.2,
+    "pap_g": 26.1,
+    "ypg": 404.2,
+    "ya_g": 343.3,
+    "yards_per_play": 11.04,
+    "yppa": null,
+    "ypra": 5.0,
+    "third_pct": 50.7,
+    "fourth_pct": 28.6,
+    "to_give": 11,
+    "to_take": 7,
+    "to_margin": -4,
+    "slice_games": 10,
+    "net_punt_drive": 12.7,
+    "punt_pg": 3.9,
+    "drive_to_pg": 1.1,
+    "scoring_drive_pct": 41.2,
+    "avg_start_own_goal": 28.0,
+    "poss_pg": 32.2,
+    "adj_ppa": 0.058,
+    "ppa": 0.798,
+    "qb1": "Avery Johnson",
+    "qb_games": 6,
+    "rb1": "Rodney Fields Jr.",
+    "rb_games": 6,
+    "wr1": "Derrick Salley Jr.",
+    "wr_games": 4
+   },
+   "away": {
+    "team": "Arizona Wildcats",
+    "games": 10,
+    "ppg": 34.7,
+    "pap_g": 21.9,
+    "ypg": 450.1,
+    "ya_g": 345.7,
+    "yards_per_play": 13.72,
+    "yppa": null,
+    "ypra": 3.78,
+    "third_pct": 49.6,
+    "fourth_pct": 50.0,
+    "to_give": 10,
+    "to_take": 12,
+    "to_margin": 2,
+    "slice_games": 10,
+    "net_punt_drive": 5.7,
+    "punt_pg": 3.3,
+    "drive_to_pg": 0.9,
+    "scoring_drive_pct": 48.3,
+    "avg_start_own_goal": 28.7,
+    "poss_pg": 32.4,
+    "adj_ppa": 0.414,
+    "ppa": 1.058,
+    "qb1": "Noah Fifita",
+    "qb_games": 10,
+    "rb1": "Kedrick Reescano",
+    "rb_games": 6,
+    "wr1": "Isaiah Mizell",
+    "wr_games": 4
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 937,
+  "home_record": {
+   "home": "4-2",
+   "away": "2-2"
+  },
+  "wind": {
+   "period": "Mostly Cloudy then Showers And Thunderstorms Likely",
+   "wind_speed": "5 to 15 mph",
+   "wind_dir": "SW",
+   "temp": 68,
+   "hourly_at_kickoff": "Showers And Thunderstorms | 5 mph SW",
+   "forecast_url": "https://api.weather.gov/gridpoints/TOP/49,56/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/TOP/49,56/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 0.4,
+   "market_margin_signed_home": 7.5,
+   "model_margin_signed_home": -6.8,
+   "home_pts": 26.0,
+   "away_pts": 25.5,
+   "arithmetic": "(51.5 + 0.4)/2 = 25.9 (home); (51.5 - 0.4)/2 = 25.6 (away); blended = mean(market +7.5, Massey model -6.8)"
+  },
+  "named_players": [
+   {
+    "team": "Kansas State Wildcats",
+    "side": "home",
+    "name": "Avery Johnson",
+    "role": "QB1 (most-started QB, 6 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Kansas State Wildcats",
+    "side": "home",
+    "name": "Rodney Fields Jr.",
+    "role": "most-listed backfield name in tracked ESPN team box scores (6 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Kansas State Wildcats",
+    "side": "home",
+    "name": "Derrick Salley Jr.",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Arizona Wildcats",
+    "side": "away",
+    "name": "Noah Fifita",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "FLAGGED: Antwan Roberts Jr.\"},\"RB1_Third\":{\"wt\":\"Wesley Yarbrough\"},\"WR1_Starter\":{\"wt\":\"Tre Spivey\"},\"WR1_Backup\":{\"wt\":\"Brandon Phelps\"},\"WR1_Third\":{\"wt\":\"&apos;&apos;RJ Mosley&apos;&apos;\"},\"WR2_Starter\":{\"wt\":\"Giovanni Richardson\"},\"WR2_Backup\":{\"wt\":\"Rodney Gallagher III\"},\"WR2_Thir",
+    "flag_urls": [
+     "Antwan Roberts Jr.\"},\"RB1_Third\":{\"wt\":\"Wesley Yarbrough\"},\"WR1_Starter\":{\"wt\":\"Tre Spivey\"},\"WR1_Backup\":{\"wt\":\"Brandon Phelps\"},\"WR1_Third\":{\"wt\":\"&apos;&apos;RJ Mosley&apos;&apos;\"},\"WR2_Starter\":{\"wt\":\"Giovanni Richardson\"},\"WR2_Backup\":{\"wt\":\"Rodney Gallagher III\"},\"WR2_Thir"
+    ]
+   },
+   {
+    "team": "Arizona Wildcats",
+    "side": "away",
+    "name": "Kedrick Reescano",
+    "role": "most-listed backfield name in tracked ESPN team box scores (6 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: Antwan Roberts Jr.\"},\"RB1_Third\":{\"wt\":\"Wesley Yarbrough\"},\"WR1_Starter\":{\"wt\":\"Tre Spivey\"},\"WR1_Backup\":{\"wt\":\"Brandon Phelps\"},\"WR1_Third\":{\"wt\":\"&apos;&apos;RJ Mosley&apos;&apos;\"},\"WR2_Starter\":{\"wt\":\"Giovanni Richardson\"},\"WR2_Backup\":{\"wt\":\"Rodney Gallagher III\"},\"WR2_Thir",
+    "flag_urls": [
+     "Antwan Roberts Jr.\"},\"RB1_Third\":{\"wt\":\"Wesley Yarbrough\"},\"WR1_Starter\":{\"wt\":\"Tre Spivey\"},\"WR1_Backup\":{\"wt\":\"Brandon Phelps\"},\"WR1_Third\":{\"wt\":\"&apos;&apos;RJ Mosley&apos;&apos;\"},\"WR2_Starter\":{\"wt\":\"Giovanni Richardson\"},\"WR2_Backup\":{\"wt\":\"Rodney Gallagher III\"},\"WR2_Thir",
+     "Daylen Austin Johno Price Special teams Out (indefinitely) Out (season) Out (suspended) Out (retired) RB Kedrick Reescano Quincy Craig Antwan Roberts Jr."
+    ]
+   },
+   {
+    "team": "Arizona Wildcats",
+    "side": "away",
+    "name": "Isaiah Mizell",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: Antwan Roberts Jr.\"},\"RB1_Third\":{\"wt\":\"Wesley Yarbrough\"},\"WR1_Starter\":{\"wt\":\"Tre Spivey\"},\"WR1_Backup\":{\"wt\":\"Brandon Phelps\"},\"WR1_Third\":{\"wt\":\"&apos;&apos;RJ Mosley&apos;&apos;\"},\"WR2_Starter\":{\"wt\":\"Giovanni Richardson\"},\"WR2_Backup\":{\"wt\":\"Rodney Gallagher III\"},\"WR2_Thir",
+    "flag_urls": [
+     "Antwan Roberts Jr.\"},\"RB1_Third\":{\"wt\":\"Wesley Yarbrough\"},\"WR1_Starter\":{\"wt\":\"Tre Spivey\"},\"WR1_Backup\":{\"wt\":\"Brandon Phelps\"},\"WR1_Third\":{\"wt\":\"&apos;&apos;RJ Mosley&apos;&apos;\"},\"WR2_Starter\":{\"wt\":\"Giovanni Richardson\"},\"WR2_Backup\":{\"wt\":\"Rodney Gallagher III\"},\"WR2_Thir"
+    ]
+   }
+  ]
+ },
+ {
+  "event_id": "401856753",
+  "matchup": "Georgia Bulldogs at South Carolina Gamecocks",
+  "kickoff_et": "2026-11-21 19:30 ET (Sat)",
+  "venue": "Williams-Brice Stadium",
+  "city": "Columbia",
+  "broadcast": "ABC",
+  "rankings": {
+   "home": null,
+   "away": {
+    "rank": 1,
+    "team": "Georgia",
+    "record": "9\u20131"
+   }
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "UGA -14.5",
+   "margin": 14.5,
+   "favorite": "UGA",
+   "over_under": 50.5,
+   "ml_home_open": "+295",
+   "ml_home_close": "+525",
+   "ml_away_open": "-375",
+   "ml_away_close": "-750",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 14.3,
+   "dsp_away": 31.79,
+   "home_adv_league": 10.503,
+   "model_margin_home": -7.0
+  },
+  "fpi_win_pct": {
+   "home": "13.1",
+   "away": "86.9"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "South Carolina Gamecocks",
+    "games": 10,
+    "ppg": 31.8,
+    "pap_g": 24.5,
+    "ypg": 444.2,
+    "ya_g": 353.6,
+    "yards_per_play": 12.17,
+    "yppa": null,
+    "ypra": 5.33,
+    "third_pct": 46.5,
+    "fourth_pct": 59.1,
+    "to_give": 17,
+    "to_take": 6,
+    "to_margin": -11,
+    "slice_games": 10,
+    "net_punt_drive": 6.1,
+    "punt_pg": 3.2,
+    "drive_to_pg": 1.7,
+    "scoring_drive_pct": 44.5,
+    "avg_start_own_goal": 27.4,
+    "poss_pg": 29.2,
+    "adj_ppa": 0.165,
+    "ppa": 0.871,
+    "qb1": "LaNorris Sellers",
+    "qb_games": 9,
+    "rb1": "Matt Fuller",
+    "rb_games": 4,
+    "wr1": "Nyck Harbor",
+    "wr_games": 4
+   },
+   "away": {
+    "team": "Georgia Bulldogs",
+    "games": 10,
+    "ppg": 41.8,
+    "pap_g": 14.7,
+    "ypg": 455.6,
+    "ya_g": 272.5,
+    "yards_per_play": 12.83,
+    "yppa": null,
+    "ypra": 5.85,
+    "third_pct": 51.8,
+    "fourth_pct": 66.7,
+    "to_give": 10,
+    "to_take": 18,
+    "to_margin": 8,
+    "slice_games": 10,
+    "net_punt_drive": 10.8,
+    "punt_pg": 2.8,
+    "drive_to_pg": 0.8,
+    "scoring_drive_pct": 54.4,
+    "avg_start_own_goal": 33.9,
+    "poss_pg": 31.3,
+    "adj_ppa": 0.766,
+    "ppa": 1.177,
+    "qb1": "Gunner Stockton",
+    "qb_games": 10,
+    "rb1": "Nate Frazier",
+    "rb_games": 4,
+    "wr1": "Craig Dandridge",
+    "wr_games": 4
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 135,
+  "home_record": {
+   "home": "4-2",
+   "away": "3-0"
+  },
+  "wind": {
+   "period": "Light Rain Likely",
+   "wind_speed": "6 to 13 mph",
+   "wind_dir": "NE",
+   "temp": 57,
+   "hourly_at_kickoff": "Light Rain Likely | 12 mph NE",
+   "forecast_url": "https://api.weather.gov/gridpoints/CAE/65,60/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/CAE/65,60/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 3.8,
+   "market_margin_signed_home": 14.5,
+   "model_margin_signed_home": -7.0,
+   "home_pts": 27.0,
+   "away_pts": 23.5,
+   "arithmetic": "(50.5 + 3.8)/2 = 27.1 (home); (50.5 - 3.8)/2 = 23.4 (away); blended = mean(market +14.5, Massey model -7.0)"
+  },
+  "named_players": [
+   {
+    "team": "South Carolina Gamecocks",
+    "side": "home",
+    "name": "LaNorris Sellers",
+    "role": "QB1 (most-started QB, 9 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "South Carolina Gamecocks",
+    "side": "home",
+    "name": "Matt Fuller",
+    "role": "most-listed backfield name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "South Carolina Gamecocks",
+    "side": "home",
+    "name": "Nyck Harbor",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Georgia Bulldogs",
+    "side": "away",
+    "name": "Gunner Stockton",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Georgia Bulldogs",
+    "side": "away",
+    "name": "Nate Frazier",
+    "role": "most-listed backfield name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Georgia Bulldogs",
+    "side": "away",
+    "name": "Craig Dandridge",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401858307",
+  "matchup": "SMU Mustangs at Notre Dame Fighting Irish",
+  "kickoff_et": "2026-11-21 19:30 ET (Sat)",
+  "venue": "Notre Dame Stadium",
+  "city": "Notre Dame",
+  "broadcast": "NBC",
+  "rankings": {
+   "home": {
+    "rank": 3,
+    "team": "Notre Dame",
+    "record": "9\u20131"
+   },
+   "away": null
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "ND -20.5",
+   "margin": 20.5,
+   "favorite": "ND",
+   "over_under": 56.5,
+   "ml_home_open": "-950",
+   "ml_home_close": "-1650",
+   "ml_away_open": "+625",
+   "ml_away_close": "+950",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 28.86,
+   "dsp_away": 2.81,
+   "home_adv_league": 10.503,
+   "model_margin_home": 36.5
+  },
+  "fpi_win_pct": {
+   "home": "93.4",
+   "away": "6.6"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Notre Dame Fighting Irish",
+    "games": 10,
+    "ppg": 39.5,
+    "pap_g": 13.8,
+    "ypg": 445.4,
+    "ya_g": 239.6,
+    "yards_per_play": 12.41,
+    "yppa": null,
+    "ypra": 5.17,
+    "third_pct": 45.0,
+    "fourth_pct": 72.7,
+    "to_give": 4,
+    "to_take": 20,
+    "to_margin": 16,
+    "slice_games": 10,
+    "net_punt_drive": 10.6,
+    "punt_pg": 2.3,
+    "drive_to_pg": 0.3,
+    "scoring_drive_pct": 56.6,
+    "avg_start_own_goal": 31.2,
+    "poss_pg": 32.5,
+    "adj_ppa": 0.637,
+    "ppa": 1.1,
+    "qb1": "CJ Carr",
+    "qb_games": 10,
+    "rb1": "Nolan James Jr.",
+    "rb_games": 4,
+    "wr1": "Micah Gilbert",
+    "wr_games": 4
+   },
+   "away": {
+    "team": "SMU Mustangs",
+    "games": 10,
+    "ppg": 34.0,
+    "pap_g": 25.5,
+    "ypg": 455.7,
+    "ya_g": 341.3,
+    "yards_per_play": 13.29,
+    "yppa": null,
+    "ypra": 4.24,
+    "third_pct": 44.8,
+    "fourth_pct": 66.7,
+    "to_give": 15,
+    "to_take": 9,
+    "to_margin": -6,
+    "slice_games": 10,
+    "net_punt_drive": 8.3,
+    "punt_pg": 2.8,
+    "drive_to_pg": 1.4,
+    "scoring_drive_pct": 49.6,
+    "avg_start_own_goal": 30.4,
+    "poss_pg": 29.2,
+    "adj_ppa": 0.269,
+    "ppa": 0.991,
+    "qb1": "Kevin Jennings",
+    "qb_games": 10,
+    "rb1": "Kendrick Raphael",
+    "rb_games": 8,
+    "wr1": "Yamir Knight",
+    "wr_games": 4
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 842,
+  "home_record": {
+   "home": "6-0",
+   "away": "1-2"
+  },
+  "wind": {
+   "period": "Mostly Clear",
+   "wind_speed": "5 mph",
+   "wind_dir": "S",
+   "temp": 46,
+   "hourly_at_kickoff": "Clear | 5 mph S",
+   "forecast_url": "https://api.weather.gov/gridpoints/IWX/30,64/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/IWX/30,64/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 8.0,
+   "market_margin_signed_home": -20.5,
+   "model_margin_signed_home": 36.5,
+   "home_pts": 32.0,
+   "away_pts": 24.0,
+   "arithmetic": "(56.5 + 8.0)/2 = 32.2 (home); (56.5 - 8.0)/2 = 24.2 (away); blended = mean(market -20.5, Massey model +36.5)"
+  },
+  "named_players": [
+   {
+    "team": "Notre Dame Fighting Irish",
+    "side": "home",
+    "name": "CJ Carr",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Notre Dame Fighting Irish",
+    "side": "home",
+    "name": "Nolan James Jr.",
+    "role": "most-listed backfield name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "FLAGGED: Jonaz Walton Aneyas Williams Injuries [ edit ] Player Position Injury Status Will Black OL Concussion Questionable Francis Brewu DL Left knee Questionable Brauntae Johnson S Left foot Questionable Jason Onye DL Right knee Questionable Drayk Bowen LB Right ankle Out for next game ",
+    "flag_urls": [
+     "Jonaz Walton Aneyas Williams Injuries [ edit ] Player Position Injury Status Will Black OL Concussion Questionable Francis Brewu DL Left knee Questionable Brauntae Johnson S Left foot Questionable Jason Onye DL Right knee Questionable Drayk Bowen LB Right ankle Out for next game "
+    ]
+   },
+   {
+    "team": "Notre Dame Fighting Irish",
+    "side": "home",
+    "name": "Micah Gilbert",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "SMU Mustangs",
+    "side": "away",
+    "name": "Kevin Jennings",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "SMU Mustangs",
+    "side": "away",
+    "name": "Kendrick Raphael",
+    "role": "most-listed backfield name in tracked ESPN team box scores (8 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "SMU Mustangs",
+    "side": "away",
+    "name": "Yamir Knight",
+    "role": "most-listed receiving name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401856751",
+  "matchup": "Kentucky Wildcats at Missouri Tigers",
+  "kickoff_et": "2026-11-21 19:30 ET (Sat)",
+  "venue": "Memorial Stadium",
+  "city": "Columbia",
+  "broadcast": "SEC Network",
+  "rankings": {
+   "home": null,
+   "away": {
+    "rank": 17,
+    "team": "Kentucky",
+    "record": "7\u20133"
+   }
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "MIZ -4.5",
+   "margin": 4.5,
+   "favorite": "MIZ",
+   "over_under": 48.5,
+   "ml_home_open": "-225",
+   "ml_home_close": "-205",
+   "ml_away_open": "+185",
+   "ml_away_close": "+170",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 17.39,
+   "dsp_away": 13.68,
+   "home_adv_league": 10.503,
+   "model_margin_home": 14.2
+  },
+  "fpi_win_pct": {
+   "home": "61.5",
+   "away": "38.5"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Missouri Tigers",
+    "games": 10,
+    "ppg": 29.3,
+    "pap_g": 22.9,
+    "ypg": 401.9,
+    "ya_g": 347.0,
+    "yards_per_play": 11.58,
+    "yppa": null,
+    "ypra": 4.4,
+    "third_pct": 37.4,
+    "fourth_pct": 53.8,
+    "to_give": 7,
+    "to_take": 16,
+    "to_margin": 9,
+    "slice_games": 10,
+    "net_punt_drive": 12.8,
+    "punt_pg": 4.8,
+    "drive_to_pg": 0.7,
+    "scoring_drive_pct": 39.5,
+    "avg_start_own_goal": 32.4,
+    "poss_pg": 29.9,
+    "adj_ppa": 0.137,
+    "ppa": 0.844,
+    "qb1": "Austin Simmons",
+    "qb_games": 10,
+    "rb1": "Jamal Roberts",
+    "rb_games": 10,
+    "wr1": "Cayden Lee",
+    "wr_games": 5
+   },
+   "away": {
+    "team": "Kentucky Wildcats",
+    "games": 10,
+    "ppg": 28.3,
+    "pap_g": 25.3,
+    "ypg": 369.4,
+    "ya_g": 362.0,
+    "yards_per_play": 10.8,
+    "yppa": null,
+    "ypra": 4.49,
+    "third_pct": 36.2,
+    "fourth_pct": 50.0,
+    "to_give": 9,
+    "to_take": 18,
+    "to_margin": 9,
+    "slice_games": 10,
+    "net_punt_drive": 13.5,
+    "punt_pg": 3.3,
+    "drive_to_pg": 0.8,
+    "scoring_drive_pct": 42.6,
+    "avg_start_own_goal": 30.0,
+    "poss_pg": 30.1,
+    "adj_ppa": 0.068,
+    "ppa": 0.827,
+    "qb1": "Kenny Minchey",
+    "qb_games": 10,
+    "rb1": "CJ Baxter",
+    "rb_games": 5,
+    "wr1": "Kenny Darby",
+    "wr_games": 5
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 428,
+  "home_record": {
+   "home": "4-1",
+   "away": "3-1"
+  },
+  "wind": {
+   "period": "Mostly Cloudy",
+   "wind_speed": "0 to 5 mph",
+   "wind_dir": "SSW",
+   "temp": 60,
+   "hourly_at_kickoff": "Mostly Cloudy | 0 mph",
+   "forecast_url": "https://api.weather.gov/gridpoints/EWX/156,92/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/EWX/156,92/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 4.9,
+   "market_margin_signed_home": -4.5,
+   "model_margin_signed_home": 14.2,
+   "home_pts": 26.5,
+   "away_pts": 22.0,
+   "arithmetic": "(48.5 + 4.9)/2 = 26.7 (home); (48.5 - 4.9)/2 = 21.8 (away); blended = mean(market -4.5, Massey model +14.2)"
+  },
+  "named_players": [
+   {
+    "team": "Missouri Tigers",
+    "side": "home",
+    "name": "Austin Simmons",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Missouri Tigers",
+    "side": "home",
+    "name": "Jamal Roberts",
+    "role": "most-listed backfield name in tracked ESPN team box scores (10 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Missouri Tigers",
+    "side": "home",
+    "name": "Cayden Lee",
+    "role": "most-listed receiving name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Kentucky Wildcats",
+    "side": "away",
+    "name": "Kenny Minchey",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Kentucky Wildcats",
+    "side": "away",
+    "name": "CJ Baxter",
+    "role": "most-listed backfield name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Kentucky Wildcats",
+    "side": "away",
+    "name": "Kenny Darby",
+    "role": "most-listed receiving name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401858306",
+  "matchup": "Pittsburgh Panthers at Louisville Cardinals",
+  "kickoff_et": "2026-11-21 19:30 ET (Sat)",
+  "venue": "L&N Federal Credit Union Stadium",
+  "city": "Louisville",
+  "broadcast": "ESPN2",
+  "rankings": {
+   "home": {
+    "rank": 21,
+    "team": "Louisville",
+    "record": "7\u20133"
+   },
+   "away": null
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "LOU -13.5",
+   "margin": 13.5,
+   "favorite": "LOU",
+   "over_under": 50.5,
+   "ml_home_open": "-340",
+   "ml_home_close": "-575",
+   "ml_away_open": "+270",
+   "ml_away_close": "+425",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 16.91,
+   "dsp_away": 5.07,
+   "home_adv_league": 10.503,
+   "model_margin_home": 22.3
+  },
+  "fpi_win_pct": {
+   "home": "77.5",
+   "away": "22.5"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Louisville Cardinals",
+    "games": 10,
+    "ppg": 38.3,
+    "pap_g": 24.7,
+    "ypg": 469.5,
+    "ya_g": 393.3,
+    "yards_per_play": 13.15,
+    "yppa": null,
+    "ypra": 6.16,
+    "third_pct": 43.8,
+    "fourth_pct": 0.0,
+    "to_give": 8,
+    "to_take": 17,
+    "to_margin": 9,
+    "slice_games": 10,
+    "net_punt_drive": 7.3,
+    "punt_pg": 3.4,
+    "drive_to_pg": 0.8,
+    "scoring_drive_pct": 50.0,
+    "avg_start_own_goal": 30.8,
+    "poss_pg": 29.2,
+    "adj_ppa": 0.425,
+    "ppa": 1.073,
+    "qb1": "Lincoln Kienholz",
+    "qb_games": 10,
+    "rb1": "Lincoln Kienholz",
+    "rb_games": 3,
+    "wr1": "Lawayne McCoy",
+    "wr_games": 5
+   },
+   "away": {
+    "team": "Pittsburgh Panthers",
+    "games": 10,
+    "ppg": 29.7,
+    "pap_g": 19.4,
+    "ypg": 432.1,
+    "ya_g": 314.8,
+    "yards_per_play": 11.68,
+    "yppa": null,
+    "ypra": 4.48,
+    "third_pct": 40.0,
+    "fourth_pct": 39.1,
+    "to_give": 12,
+    "to_take": 14,
+    "to_margin": 2,
+    "slice_games": 10,
+    "net_punt_drive": 9.5,
+    "punt_pg": 4.1,
+    "drive_to_pg": 1.2,
+    "scoring_drive_pct": 41.3,
+    "avg_start_own_goal": 29.8,
+    "poss_pg": 31.1,
+    "adj_ppa": 0.271,
+    "ppa": 0.803,
+    "qb1": "Mason Heintschel",
+    "qb_games": 5,
+    "rb1": "Damon Ferguson Jr.",
+    "rb_games": 7,
+    "wr1": "Cataurus Hicks",
+    "wr_games": 5
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 8,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-13"
+   }
+  },
+  "travel_miles_campus_to_campus": 344,
+  "home_record": {
+   "home": "4-1",
+   "away": "1-2"
+  },
+  "wind": {
+   "period": "Mostly Clear",
+   "wind_speed": "2 mph",
+   "wind_dir": "E",
+   "temp": 43,
+   "hourly_at_kickoff": "Partly Cloudy | 2 mph SE",
+   "forecast_url": "https://api.weather.gov/gridpoints/LMK/50,76/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/LMK/50,76/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 4.4,
+   "market_margin_signed_home": -13.5,
+   "model_margin_signed_home": 22.3,
+   "home_pts": 27.5,
+   "away_pts": 23.0,
+   "arithmetic": "(50.5 + 4.4)/2 = 27.4 (home); (50.5 - 4.4)/2 = 23.1 (away); blended = mean(market -13.5, Massey model +22.3)"
+  },
+  "named_players": [
+   {
+    "team": "Louisville Cardinals",
+    "side": "home",
+    "name": "Lincoln Kienholz",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Louisville Cardinals",
+    "side": "home",
+    "name": "Lawayne McCoy",
+    "role": "most-listed receiving name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Pittsburgh Panthers",
+    "side": "away",
+    "name": "Mason Heintschel",
+    "role": "QB1 (most-started QB, 5 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Pittsburgh Panthers",
+    "side": "away",
+    "name": "Damon Ferguson Jr.",
+    "role": "most-listed backfield name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Pittsburgh Panthers",
+    "side": "away",
+    "name": "Cataurus Hicks",
+    "role": "most-listed receiving name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401856872",
+  "matchup": "Utah Utes at TCU Horned Frogs",
+  "kickoff_et": "2026-11-21 21:00 ET (Sat)",
+  "venue": "Amon G. Carter Stadium",
+  "city": "Fort Worth",
+  "broadcast": "Fox",
+  "rankings": {
+   "home": null,
+   "away": {
+    "rank": 2,
+    "team": "Utah",
+    "record": "10\u20130"
+   }
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "UTAH -8.5",
+   "margin": 8.5,
+   "favorite": "UTAH",
+   "over_under": 46.5,
+   "ml_home_open": "+170",
+   "ml_home_close": "+270",
+   "ml_away_open": "-205",
+   "ml_away_close": "-340",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 7.71,
+   "dsp_away": 23.47,
+   "home_adv_league": 10.503,
+   "model_margin_home": -5.3
+  },
+  "fpi_win_pct": {
+   "home": "26.5",
+   "away": "73.5"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "TCU Horned Frogs",
+    "games": 10,
+    "ppg": 23.4,
+    "pap_g": 15.2,
+    "ypg": 372.9,
+    "ya_g": 304.4,
+    "yards_per_play": 11.62,
+    "yppa": null,
+    "ypra": 3.32,
+    "third_pct": 45.0,
+    "fourth_pct": 46.7,
+    "to_give": 15,
+    "to_take": 14,
+    "to_margin": -1,
+    "slice_games": 10,
+    "net_punt_drive": 11.6,
+    "punt_pg": 4.4,
+    "drive_to_pg": 1.3,
+    "scoring_drive_pct": 33.6,
+    "avg_start_own_goal": 29.5,
+    "poss_pg": 30.7,
+    "adj_ppa": 0.295,
+    "ppa": 0.729,
+    "qb1": "Jaden Craig",
+    "qb_games": 10,
+    "rb1": "Jeremy Payne",
+    "rb_games": 6,
+    "wr1": "Kari Ashley",
+    "wr_games": 5
+   },
+   "away": {
+    "team": "Utah Utes",
+    "games": 10,
+    "ppg": 37.9,
+    "pap_g": 18.6,
+    "ypg": 471.3,
+    "ya_g": 344.9,
+    "yards_per_play": 12.21,
+    "yppa": null,
+    "ypra": 5.79,
+    "third_pct": 53.2,
+    "fourth_pct": 42.9,
+    "to_give": 15,
+    "to_take": 18,
+    "to_margin": 3,
+    "slice_games": 10,
+    "net_punt_drive": 12.5,
+    "punt_pg": 3.0,
+    "drive_to_pg": 1.4,
+    "scoring_drive_pct": 48.7,
+    "avg_start_own_goal": 30.0,
+    "poss_pg": 32.2,
+    "adj_ppa": 0.308,
+    "ppa": 0.982,
+    "qb1": "Devon Dampier",
+    "qb_games": 10,
+    "rb1": "Wayshawn Parker",
+    "rb_games": 5,
+    "wr1": "Braden Pegan",
+    "wr_games": 3
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 974,
+  "home_record": {
+   "home": "4-3",
+   "away": "4-0"
+  },
+  "wind": {
+   "period": "Mostly Cloudy",
+   "wind_speed": "5 to 10 mph",
+   "wind_dir": "SSW",
+   "temp": 58,
+   "hourly_at_kickoff": "Mostly Cloudy | 10 mph S",
+   "forecast_url": "https://api.weather.gov/gridpoints/FWD/68,101/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/FWD/68,101/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 1.6,
+   "market_margin_signed_home": 8.5,
+   "model_margin_signed_home": -5.3,
+   "home_pts": 24.0,
+   "away_pts": 22.5,
+   "arithmetic": "(46.5 + 1.6)/2 = 24.1 (home); (46.5 - 1.6)/2 = 22.4 (away); blended = mean(market +8.5, Massey model -5.3)"
+  },
+  "named_players": [
+   {
+    "team": "TCU Horned Frogs",
+    "side": "home",
+    "name": "Jaden Craig",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "TCU Horned Frogs",
+    "side": "home",
+    "name": "Jeremy Payne",
+    "role": "most-listed backfield name in tracked ESPN team box scores (6 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "TCU Horned Frogs",
+    "side": "home",
+    "name": "Kari Ashley",
+    "role": "most-listed receiving name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Utah Utes",
+    "side": "away",
+    "name": "Devon Dampier",
+    "role": "QB1 (most-started QB, 10 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Utah Utes",
+    "side": "away",
+    "name": "Wayshawn Parker",
+    "role": "most-listed backfield name in tracked ESPN team box scores (5 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Utah Utes",
+    "side": "away",
+    "name": "Braden Pegan",
+    "role": "most-listed receiving name in tracked ESPN team box scores (3 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ },
+ {
+  "event_id": "401860925",
+  "matchup": "San Diego State Aztecs at Boise State Broncos",
+  "kickoff_et": "2026-11-21 21:30 ET (Sat)",
+  "venue": "Albertsons Stadium",
+  "city": "Boise",
+  "broadcast": "USA Net",
+  "rankings": {
+   "home": {
+    "rank": 15,
+    "team": "Boise State",
+    "record": "9\u20131"
+   },
+   "away": null
+  },
+  "line": {
+   "provider": "DraftKings",
+   "spread": "BOIS -17.5",
+   "margin": 17.5,
+   "favorite": "BOIS",
+   "over_under": 60.5,
+   "ml_home_open": "-1450",
+   "ml_home_close": "-950",
+   "ml_away_open": "+850",
+   "ml_away_close": "+625",
+   "pulled_at_utc": "2026-11-21T06:17:39Z"
+  },
+  "ratings": {
+   "dsp_home": 17.51,
+   "dsp_away": -9.5,
+   "home_adv_league": 10.503,
+   "model_margin_home": 37.5
+  },
+  "fpi_win_pct": {
+   "home": "93.8",
+   "away": "6.2"
+  },
+  "offense_defense": {
+   "home": {
+    "team": "Boise State Broncos",
+    "games": 10,
+    "ppg": 39.7,
+    "pap_g": 26.8,
+    "ypg": 478.3,
+    "ya_g": 390.1,
+    "yards_per_play": 11.55,
+    "yppa": null,
+    "ypra": 5.51,
+    "third_pct": 52.3,
+    "fourth_pct": 76.2,
+    "to_give": 6,
+    "to_take": 9,
+    "to_margin": 3,
+    "slice_games": 10,
+    "net_punt_drive": 9.1,
+    "punt_pg": 2.7,
+    "drive_to_pg": 0.4,
+    "scoring_drive_pct": 55.0,
+    "avg_start_own_goal": 27.2,
+    "poss_pg": 35.1,
+    "adj_ppa": -0.12,
+    "ppa": 0.959,
+    "qb1": "Maddux Madsen",
+    "qb_games": 9,
+    "rb1": "Dylan Riley",
+    "rb_games": 9,
+    "wr1": "Rasean Jones",
+    "wr_games": 7
+   },
+   "away": {
+    "team": "San Diego State Aztecs",
+    "games": 10,
+    "ppg": 26.8,
+    "pap_g": 32.2,
+    "ypg": 333.1,
+    "ya_g": 425.9,
+    "yards_per_play": 9.23,
+    "yppa": null,
+    "ypra": 4.48,
+    "third_pct": 36.4,
+    "fourth_pct": 43.8,
+    "to_give": 14,
+    "to_take": 11,
+    "to_margin": -3,
+    "slice_games": 10,
+    "net_punt_drive": 10.0,
+    "punt_pg": 4.3,
+    "drive_to_pg": 1.3,
+    "scoring_drive_pct": 39.5,
+    "avg_start_own_goal": 29.9,
+    "poss_pg": 26.0,
+    "adj_ppa": -0.025,
+    "ppa": 0.742,
+    "qb1": "Jayden Denegal",
+    "qb_games": 7,
+    "rb1": "Lucky Sutton",
+    "rb_games": 4,
+    "wr1": "Jaylon Hawkins",
+    "wr_games": 3
+   }
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7,
+   "last_game": {
+    "home": "2026-11-14",
+    "away": "2026-11-14"
+   }
+  },
+  "travel_miles_campus_to_campus": 749,
+  "home_record": {
+   "home": "5-0",
+   "away": "0-4"
+  },
+  "wind": {
+   "period": "Cloudy then Slight Chance Light Rain",
+   "wind_speed": "5 mph",
+   "wind_dir": "SE",
+   "temp": 35,
+   "hourly_at_kickoff": "Cloudy | 3 mph ESE",
+   "forecast_url": "https://api.weather.gov/gridpoints/BOI/134,85/forecast",
+   "hourly_url": "https://api.weather.gov/gridpoints/BOI/134,85/forecast/hourly"
+  },
+  "prediction": {
+   "margin_blended_signed_home": 10.0,
+   "market_margin_signed_home": -17.5,
+   "model_margin_signed_home": 37.5,
+   "home_pts": 35.0,
+   "away_pts": 25.0,
+   "arithmetic": "(60.5 + 10.0)/2 = 35.2 (home); (60.5 - 10.0)/2 = 25.2 (away); blended = mean(market -17.5, Massey model +37.5)"
+  },
+  "named_players": [
+   {
+    "team": "Boise State Broncos",
+    "side": "home",
+    "name": "Maddux Madsen",
+    "role": "QB1 (most-started QB, 9 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Boise State Broncos",
+    "side": "home",
+    "name": "Dylan Riley",
+    "role": "most-listed backfield name in tracked ESPN team box scores (9 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "Boise State Broncos",
+    "side": "home",
+    "name": "Rasean Jones",
+    "role": "most-listed receiving name in tracked ESPN team box scores (7 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "San Diego State Aztecs",
+    "side": "away",
+    "name": "Jayden Denegal",
+    "role": "QB1 (most-started QB, 7 of 10 tracked team box scores)",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "San Diego State Aztecs",
+    "side": "away",
+    "name": "Lucky Sutton",
+    "role": "most-listed backfield name in tracked ESPN team box scores (4 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   },
+   {
+    "team": "San Diego State Aztecs",
+    "side": "away",
+    "name": "Jaylon Hawkins",
+    "role": "most-listed receiving name in tracked ESPN team box scores (3 games); ESPN game logs expose no position yardage",
+    "status": "no absence mention in checked sources (ESPN game-summary news feed, ESPN injury-news feed, Wikipedia 2026 team-season page) as of 2026-11-21; appears repeatedly in tracked ESPN team box scores this season - projected to play",
+    "flag_urls": []
+   }
+  ]
+ }
+]

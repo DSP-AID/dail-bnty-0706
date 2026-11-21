@@ -1,0 +1,827 @@
+{
+ "401858528": {
+  "stadium": "Michigan Stadium",
+  "kickoff_utc": "2026-11-21T20:30Z",
+  "lat": 42.2659,
+  "lon": -83.7488,
+  "points_url": "https://api.weather.gov/points/42.2659,-83.7488",
+  "forecast_url": "https://api.weather.gov/gridpoints/DTX/42,29/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/DTX/42,29/forecast/hourly",
+  "covering_period": {
+   "number": 2,
+   "name": "Saturday",
+   "startTime": "2026-11-21T06:00:00-05:00",
+   "endTime": "2026-11-21T18:00:00-05:00",
+   "isDaytime": true,
+   "temperature": 65,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 0
+   },
+   "windSpeed": "5 to 8 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+   "shortForecast": "Sunny",
+   "detailedForecast": "Sunny. High near 65, with temperatures falling to around 58 in the afternoon. South wind 5 to 8 mph."
+  },
+  "hourly_at_kickoff": {
+   "number": 11,
+   "name": "",
+   "startTime": "2026-11-21T15:00:00-05:00",
+   "endTime": "2026-11-21T16:00:00-05:00",
+   "isDaytime": true,
+   "temperature": 62,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 0
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 5.555555555555555
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 47
+   },
+   "windSpeed": "8 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+   "shortForecast": "Sunny",
+   "detailedForecast": ""
+  }
+ },
+ "401856755": {
+  "stadium": "DKR-Texas Memorial Stadium",
+  "kickoff_utc": "2026-11-21T20:30Z",
+  "lat": 30.2837,
+  "lon": -97.7326,
+  "points_url": "https://api.weather.gov/points/30.2837,-97.7326",
+  "forecast_url": "https://api.weather.gov/gridpoints/EWX/156,92/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/EWX/156,92/forecast/hourly",
+  "covering_period": {
+   "number": 2,
+   "name": "Saturday",
+   "startTime": "2026-11-21T06:00:00-06:00",
+   "endTime": "2026-11-21T18:00:00-06:00",
+   "isDaytime": true,
+   "temperature": 75,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 1
+   },
+   "windSpeed": "0 to 5 mph",
+   "windDirection": "SSE",
+   "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+   "shortForecast": "Areas Of Fog then Mostly Sunny",
+   "detailedForecast": "Areas of fog before 10am. Mostly sunny, with a high near 75. South southeast wind 0 to 5 mph."
+  },
+  "hourly_at_kickoff": {
+   "number": 11,
+   "name": "",
+   "startTime": "2026-11-21T14:00:00-06:00",
+   "endTime": "2026-11-21T15:00:00-06:00",
+   "isDaytime": true,
+   "temperature": 74,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 1
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 16.666666666666668
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 66
+   },
+   "windSpeed": "5 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/day/sct?size=small",
+   "shortForecast": "Mostly Sunny",
+   "detailedForecast": ""
+  }
+ },
+ "401858535": {
+  "stadium": "Husky Stadium",
+  "kickoff_utc": "2026-11-21T20:30Z",
+  "lat": 47.6503,
+  "lon": -122.3016,
+  "points_url": "https://api.weather.gov/points/47.6503,-122.3016",
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/126,70/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/SEW/126,70/forecast/hourly",
+  "covering_period": {
+   "number": 2,
+   "name": "Saturday",
+   "startTime": "2026-11-21T06:00:00-08:00",
+   "endTime": "2026-11-21T18:00:00-08:00",
+   "isDaytime": true,
+   "temperature": 51,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 25
+   },
+   "windSpeed": "2 mph",
+   "windDirection": "N",
+   "icon": "https://api.weather.gov/icons/land/day/fog/rain,30?size=medium",
+   "shortForecast": "Patchy Fog then Chance Light Rain",
+   "detailedForecast": "Patchy fog before 10am, then a chance of rain. Partly sunny. High near 51, with temperatures falling to around 47 in the afternoon. North wind around 2 mph. Chance of precipitation is 30%."
+  },
+  "hourly_at_kickoff": {
+   "number": 12,
+   "name": "",
+   "startTime": "2026-11-21T12:00:00-08:00",
+   "endTime": "2026-11-21T13:00:00-08:00",
+   "isDaytime": true,
+   "temperature": 48,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 2
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 3.888888888888889
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 70
+   },
+   "windSpeed": "2 mph",
+   "windDirection": "SSE",
+   "icon": "https://api.weather.gov/icons/land/day/bkn?size=small",
+   "shortForecast": "Partly Sunny",
+   "detailedForecast": ""
+  }
+ },
+ "401856754": {
+  "stadium": "Neyland Stadium",
+  "kickoff_utc": "2026-11-21T20:30Z",
+  "lat": 35.955,
+  "lon": -83.925,
+  "points_url": "https://api.weather.gov/points/35.955,-83.925",
+  "forecast_url": "https://api.weather.gov/gridpoints/MRX/71,51/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/MRX/71,51/forecast/hourly",
+  "covering_period": {
+   "number": 2,
+   "name": "Saturday",
+   "startTime": "2026-11-21T06:00:00-05:00",
+   "endTime": "2026-11-21T18:00:00-05:00",
+   "isDaytime": true,
+   "temperature": 68,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 5
+   },
+   "windSpeed": "0 to 5 mph",
+   "windDirection": "NE",
+   "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+   "shortForecast": "Mostly Cloudy",
+   "detailedForecast": "Mostly cloudy. High near 68, with temperatures falling to around 64 in the afternoon. Northeast wind 0 to 5 mph."
+  },
+  "hourly_at_kickoff": {
+   "number": 12,
+   "name": "",
+   "startTime": "2026-11-21T15:00:00-05:00",
+   "endTime": "2026-11-21T16:00:00-05:00",
+   "isDaytime": true,
+   "temperature": 66,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 2
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 0.5555555555555556
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 29
+   },
+   "windSpeed": "0 mph",
+   "windDirection": "",
+   "icon": "https://api.weather.gov/icons/land/day/bkn?size=small",
+   "shortForecast": "Mostly Cloudy",
+   "detailedForecast": ""
+  }
+ },
+ "401856871": {
+  "stadium": "McLane Stadium",
+  "kickoff_utc": "2026-11-21T20:30Z",
+  "lat": 31.5582,
+  "lon": -97.1157,
+  "points_url": "https://api.weather.gov/points/31.5582,-97.1157",
+  "forecast_url": "https://api.weather.gov/gridpoints/FWD/77,50/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/FWD/77,50/forecast/hourly",
+  "covering_period": {
+   "number": 2,
+   "name": "Saturday",
+   "startTime": "2026-11-21T06:00:00-06:00",
+   "endTime": "2026-11-21T18:00:00-06:00",
+   "isDaytime": true,
+   "temperature": 77,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 1
+   },
+   "windSpeed": "5 to 10 mph",
+   "windDirection": "SSE",
+   "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+   "shortForecast": "Patchy Fog then Partly Sunny",
+   "detailedForecast": "Patchy fog before 9am. Partly sunny. High near 77, with temperatures falling to around 75 in the afternoon. South southeast wind 5 to 10 mph, with gusts as high as 20 mph."
+  },
+  "hourly_at_kickoff": {
+   "number": 11,
+   "name": "",
+   "startTime": "2026-11-21T14:00:00-06:00",
+   "endTime": "2026-11-21T15:00:00-06:00",
+   "isDaytime": true,
+   "temperature": 76,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 1
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 15
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 56
+   },
+   "windSpeed": "10 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/day/bkn?size=small",
+   "shortForecast": "Partly Sunny",
+   "detailedForecast": ""
+  }
+ },
+ "401856752": {
+  "stadium": "Memorial Stadium (Norman, OK)",
+  "kickoff_utc": "2026-11-21T20:45Z",
+  "lat": 35.2058,
+  "lon": -97.4425,
+  "points_url": "https://api.weather.gov/points/35.2058,-97.4425",
+  "forecast_url": "https://api.weather.gov/gridpoints/OUN/100,82/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/OUN/100,82/forecast/hourly",
+  "covering_period": {
+   "number": 2,
+   "name": "Saturday",
+   "startTime": "2026-11-21T06:00:00-06:00",
+   "endTime": "2026-11-21T18:00:00-06:00",
+   "isDaytime": true,
+   "temperature": 69,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 21
+   },
+   "windSpeed": "10 to 18 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,20?size=medium",
+   "shortForecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+   "detailedForecast": "A slight chance of showers and thunderstorms after 3pm. Mostly sunny, with a high near 69. South wind 10 to 18 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
+  },
+  "hourly_at_kickoff": {
+   "number": 12,
+   "name": "",
+   "startTime": "2026-11-21T15:00:00-06:00",
+   "endTime": "2026-11-21T16:00:00-06:00",
+   "isDaytime": true,
+   "temperature": 68,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 21
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 13.333333333333334
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 65
+   },
+   "windSpeed": "16 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20?size=small",
+   "shortForecast": "Slight Chance Showers And Thunderstorms",
+   "detailedForecast": ""
+  }
+ },
+ "401858534": {
+  "stadium": "Los Angeles Memorial Coliseum",
+  "kickoff_utc": "2026-11-21T23:15Z",
+  "lat": 34.0142,
+  "lon": -118.2878,
+  "points_url": "https://api.weather.gov/points/34.0142,-118.2878",
+  "forecast_url": "https://api.weather.gov/gridpoints/LOX/153,44/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/LOX/153,44/forecast/hourly",
+  "covering_period": {
+   "number": 2,
+   "name": "Saturday",
+   "startTime": "2026-11-21T06:00:00-08:00",
+   "endTime": "2026-11-21T18:00:00-08:00",
+   "isDaytime": true,
+   "temperature": 68,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 0
+   },
+   "windSpeed": "0 to 5 mph",
+   "windDirection": "NW",
+   "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+   "shortForecast": "Sunny",
+   "detailedForecast": "Sunny, with a high near 68. Northwest wind 0 to 5 mph."
+  },
+  "hourly_at_kickoff": {
+   "number": 15,
+   "name": "",
+   "startTime": "2026-11-21T15:00:00-08:00",
+   "endTime": "2026-11-21T16:00:00-08:00",
+   "isDaytime": true,
+   "temperature": 67,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 0
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 6.666666666666667
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 44
+   },
+   "windSpeed": "5 mph",
+   "windDirection": "W",
+   "icon": "https://api.weather.gov/icons/land/day/skc?size=small",
+   "shortForecast": "Sunny",
+   "detailedForecast": ""
+  }
+ },
+ "401858302": {
+  "stadium": "Hard Rock Stadium",
+  "kickoff_utc": "2026-11-22T00:00Z",
+  "lat": 25.9581,
+  "lon": -80.2389,
+  "points_url": "https://api.weather.gov/points/25.9581,-80.2389",
+  "forecast_url": "https://api.weather.gov/gridpoints/MFL/107,58/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/MFL/107,58/forecast/hourly",
+  "covering_period": {
+   "number": 3,
+   "name": "Saturday Night",
+   "startTime": "2026-11-21T18:00:00-05:00",
+   "endTime": "2026-11-22T06:00:00-05:00",
+   "isDaytime": false,
+   "temperature": 72,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 9
+   },
+   "windSpeed": "3 to 7 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+   "shortForecast": "Partly Cloudy",
+   "detailedForecast": "Partly cloudy, with a low around 72. South wind 3 to 7 mph. New rainfall amounts less than a tenth of an inch possible."
+  },
+  "hourly_at_kickoff": {
+   "number": 15,
+   "name": "",
+   "startTime": "2026-11-21T19:00:00-05:00",
+   "endTime": "2026-11-21T20:00:00-05:00",
+   "isDaytime": false,
+   "temperature": 77,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 7
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 21.666666666666668
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 82
+   },
+   "windSpeed": "6 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/night/bkn?size=small",
+   "shortForecast": "Mostly Cloudy",
+   "detailedForecast": ""
+  }
+ },
+ "401856865": {
+  "stadium": "Bill Snyder Family Stadium",
+  "kickoff_utc": "2026-11-22T00:00Z",
+  "lat": 39.2019,
+  "lon": -96.5939,
+  "points_url": "https://api.weather.gov/points/39.2019,-96.5939",
+  "forecast_url": "https://api.weather.gov/gridpoints/TOP/49,56/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/TOP/49,56/forecast/hourly",
+  "covering_period": {
+   "number": 2,
+   "name": "Saturday",
+   "startTime": "2026-11-21T06:00:00-06:00",
+   "endTime": "2026-11-21T18:00:00-06:00",
+   "isDaytime": true,
+   "temperature": 68,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 70
+   },
+   "windSpeed": "5 to 15 mph",
+   "windDirection": "SW",
+   "icon": "https://api.weather.gov/icons/land/day/bkn/tsra_sct,70?size=medium",
+   "shortForecast": "Mostly Cloudy then Showers And Thunderstorms Likely",
+   "detailedForecast": "Showers and thunderstorms likely after 2pm. Mostly cloudy, with a high near 68. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%."
+  },
+  "hourly_at_kickoff": {
+   "number": 15,
+   "name": "",
+   "startTime": "2026-11-21T18:00:00-06:00",
+   "endTime": "2026-11-21T19:00:00-06:00",
+   "isDaytime": false,
+   "temperature": 62,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 85
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 13.333333333333334
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 81
+   },
+   "windSpeed": "5 mph",
+   "windDirection": "SW",
+   "icon": "https://api.weather.gov/icons/land/night/tsra,90?size=small",
+   "shortForecast": "Showers And Thunderstorms",
+   "detailedForecast": ""
+  }
+ },
+ "401856753": {
+  "stadium": "Williams-Brice Stadium",
+  "kickoff_utc": "2026-11-22T00:30Z",
+  "lat": 33.9731,
+  "lon": -81.0192,
+  "points_url": "https://api.weather.gov/points/33.9731,-81.0192",
+  "forecast_url": "https://api.weather.gov/gridpoints/CAE/65,60/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/CAE/65,60/forecast/hourly",
+  "covering_period": {
+   "number": 3,
+   "name": "Saturday Night",
+   "startTime": "2026-11-21T18:00:00-05:00",
+   "endTime": "2026-11-22T06:00:00-05:00",
+   "isDaytime": false,
+   "temperature": 57,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 69
+   },
+   "windSpeed": "6 to 13 mph",
+   "windDirection": "NE",
+   "icon": "https://api.weather.gov/icons/land/night/rain,70/rain,50?size=medium",
+   "shortForecast": "Light Rain Likely",
+   "detailedForecast": "Rain likely before midnight, then a chance of rain and patchy fog. Mostly cloudy, with a low around 57. Northeast wind 6 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+  },
+  "hourly_at_kickoff": {
+   "number": 16,
+   "name": "",
+   "startTime": "2026-11-21T19:00:00-05:00",
+   "endTime": "2026-11-21T20:00:00-05:00",
+   "isDaytime": false,
+   "temperature": 62,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 69
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 15
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 90
+   },
+   "windSpeed": "12 mph",
+   "windDirection": "NE",
+   "icon": "https://api.weather.gov/icons/land/night/rain,70?size=small",
+   "shortForecast": "Light Rain Likely",
+   "detailedForecast": ""
+  }
+ },
+ "401858307": {
+  "stadium": "Notre Dame Stadium",
+  "kickoff_utc": "2026-11-22T00:30Z",
+  "lat": 41.6983,
+  "lon": -86.2339,
+  "points_url": "https://api.weather.gov/points/41.6983,-86.2339",
+  "forecast_url": "https://api.weather.gov/gridpoints/IWX/30,64/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/IWX/30,64/forecast/hourly",
+  "covering_period": {
+   "number": 3,
+   "name": "Saturday Night",
+   "startTime": "2026-11-21T18:00:00-05:00",
+   "endTime": "2026-11-22T06:00:00-05:00",
+   "isDaytime": false,
+   "temperature": 46,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 1
+   },
+   "windSpeed": "5 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+   "shortForecast": "Mostly Clear",
+   "detailedForecast": "Mostly clear, with a low around 46. South wind around 5 mph."
+  },
+  "hourly_at_kickoff": {
+   "number": 15,
+   "name": "",
+   "startTime": "2026-11-21T19:00:00-05:00",
+   "endTime": "2026-11-21T20:00:00-05:00",
+   "isDaytime": false,
+   "temperature": 55,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 1
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 3.888888888888889
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 55
+   },
+   "windSpeed": "5 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/night/skc?size=small",
+   "shortForecast": "Clear",
+   "detailedForecast": ""
+  }
+ },
+ "401856751": {
+  "stadium": "Memorial Stadium",
+  "kickoff_utc": "2026-11-22T00:30Z",
+  "lat": 30.2837,
+  "lon": -97.7326,
+  "points_url": "https://api.weather.gov/points/30.2837,-97.7326",
+  "forecast_url": "https://api.weather.gov/gridpoints/EWX/156,92/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/EWX/156,92/forecast/hourly",
+  "covering_period": {
+   "number": 3,
+   "name": "Saturday Night",
+   "startTime": "2026-11-21T18:00:00-06:00",
+   "endTime": "2026-11-22T06:00:00-06:00",
+   "isDaytime": false,
+   "temperature": 60,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 13
+   },
+   "windSpeed": "0 to 5 mph",
+   "windDirection": "SSW",
+   "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+   "shortForecast": "Mostly Cloudy",
+   "detailedForecast": "Mostly cloudy, with a low around 60. South southwest wind 0 to 5 mph."
+  },
+  "hourly_at_kickoff": {
+   "number": 15,
+   "name": "",
+   "startTime": "2026-11-21T18:00:00-06:00",
+   "endTime": "2026-11-21T19:00:00-06:00",
+   "isDaytime": false,
+   "temperature": 72,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 3
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 16.666666666666668
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 71
+   },
+   "windSpeed": "0 mph",
+   "windDirection": "",
+   "icon": "https://api.weather.gov/icons/land/night/bkn?size=small",
+   "shortForecast": "Mostly Cloudy",
+   "detailedForecast": ""
+  }
+ },
+ "401858306": {
+  "stadium": "L&N Federal Credit Union Stadium",
+  "kickoff_utc": "2026-11-22T00:30Z",
+  "lat": 38.2058,
+  "lon": -85.7589,
+  "points_url": "https://api.weather.gov/points/38.2058,-85.7589",
+  "forecast_url": "https://api.weather.gov/gridpoints/LMK/50,76/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/LMK/50,76/forecast/hourly",
+  "covering_period": {
+   "number": 3,
+   "name": "Saturday Night",
+   "startTime": "2026-11-21T18:00:00-05:00",
+   "endTime": "2026-11-22T06:00:00-05:00",
+   "isDaytime": false,
+   "temperature": 43,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 1
+   },
+   "windSpeed": "2 mph",
+   "windDirection": "E",
+   "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+   "shortForecast": "Mostly Clear",
+   "detailedForecast": "Mostly clear, with a low around 43. East wind around 2 mph."
+  },
+  "hourly_at_kickoff": {
+   "number": 15,
+   "name": "",
+   "startTime": "2026-11-21T19:00:00-05:00",
+   "endTime": "2026-11-21T20:00:00-05:00",
+   "isDaytime": false,
+   "temperature": 59,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 1
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 5.555555555555555
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 53
+   },
+   "windSpeed": "2 mph",
+   "windDirection": "SE",
+   "icon": "https://api.weather.gov/icons/land/night/sct?size=small",
+   "shortForecast": "Partly Cloudy",
+   "detailedForecast": ""
+  }
+ },
+ "401856872": {
+  "stadium": "Amon G. Carter Stadium",
+  "kickoff_utc": "2026-11-22T02:00Z",
+  "lat": 32.7097,
+  "lon": -97.3681,
+  "points_url": "https://api.weather.gov/points/32.7097,-97.3681",
+  "forecast_url": "https://api.weather.gov/gridpoints/FWD/68,101/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/FWD/68,101/forecast/hourly",
+  "covering_period": {
+   "number": 3,
+   "name": "Saturday Night",
+   "startTime": "2026-11-21T18:00:00-06:00",
+   "endTime": "2026-11-22T06:00:00-06:00",
+   "isDaytime": false,
+   "temperature": 58,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 14
+   },
+   "windSpeed": "5 to 10 mph",
+   "windDirection": "SSW",
+   "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+   "shortForecast": "Mostly Cloudy",
+   "detailedForecast": "Mostly cloudy. Low around 58, with temperatures rising to around 60 overnight. South southwest wind 5 to 10 mph."
+  },
+  "hourly_at_kickoff": {
+   "number": 17,
+   "name": "",
+   "startTime": "2026-11-21T20:00:00-06:00",
+   "endTime": "2026-11-21T21:00:00-06:00",
+   "isDaytime": false,
+   "temperature": 66,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 14
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 15.555555555555555
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 81
+   },
+   "windSpeed": "10 mph",
+   "windDirection": "S",
+   "icon": "https://api.weather.gov/icons/land/night/bkn?size=small",
+   "shortForecast": "Mostly Cloudy",
+   "detailedForecast": ""
+  }
+ },
+ "401860925": {
+  "stadium": "Albertsons Stadium",
+  "kickoff_utc": "2026-11-22T02:30Z",
+  "lat": 43.603,
+  "lon": -116.196,
+  "points_url": "https://api.weather.gov/points/43.603,-116.196",
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/134,85/forecast",
+  "hourly_url": "https://api.weather.gov/gridpoints/BOI/134,85/forecast/hourly",
+  "covering_period": {
+   "number": 3,
+   "name": "Saturday Night",
+   "startTime": "2026-11-21T18:00:00-07:00",
+   "endTime": "2026-11-22T06:00:00-07:00",
+   "isDaytime": false,
+   "temperature": 35,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 17
+   },
+   "windSpeed": "5 mph",
+   "windDirection": "SE",
+   "icon": "https://api.weather.gov/icons/land/night/ovc/rain,20?size=medium",
+   "shortForecast": "Cloudy then Slight Chance Light Rain",
+   "detailedForecast": "A slight chance of rain after 4am. Cloudy, with a low around 35. Southeast wind around 5 mph. Chance of precipitation is 20%."
+  },
+  "hourly_at_kickoff": {
+   "number": 17,
+   "name": "",
+   "startTime": "2026-11-21T19:00:00-07:00",
+   "endTime": "2026-11-21T20:00:00-07:00",
+   "isDaytime": false,
+   "temperature": 39,
+   "temperatureUnit": "F",
+   "temperatureTrend": null,
+   "probabilityOfPrecipitation": {
+    "unitCode": "wmoUnit:percent",
+    "value": 1
+   },
+   "dewpoint": {
+    "unitCode": "wmoUnit:degC",
+    "value": 0.5555555555555556
+   },
+   "relativeHumidity": {
+    "unitCode": "wmoUnit:percent",
+    "value": 78
+   },
+   "windSpeed": "3 mph",
+   "windDirection": "ESE",
+   "icon": "https://api.weather.gov/icons/land/night/ovc?size=small",
+   "shortForecast": "Cloudy",
+   "detailedForecast": ""
+  }
+ }
+}
